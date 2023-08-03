@@ -16,7 +16,7 @@ class SetSellingManagerTemplateAutomationRuleResponseTypeTest extends \PHPUnit\F
 {
     private $obj;
 
-    protected function setUp()
+    protected function setUp(): void
     {
         $this->obj = new SetSellingManagerTemplateAutomationRuleResponseType();
     }

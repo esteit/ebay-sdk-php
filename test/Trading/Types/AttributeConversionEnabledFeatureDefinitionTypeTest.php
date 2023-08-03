@@ -16,7 +16,7 @@ class AttributeConversionEnabledFeatureDefinitionTypeTest extends \PHPUnit\Frame
 {
     private $obj;
 
-    protected function setUp()
+    protected function setUp(): void
     {
         $this->obj = new AttributeConversionEnabledFeatureDefinitionType();
     }

@@ -7,7 +7,7 @@ class DecimalTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 
-    protected function setUp()
+    protected function setUp(): void
     {
         $this->obj = new DecimalType();
     }
@@ -26,26 +26,26 @@ class DecimalTypeTest extends \PHPUnit\Framework\TestCase
     {
         $this->obj->value = 123;
         $this->assertEquals(123, $this->obj->value);
-        $this->assertInternalType('integer', $this->obj->value);
+        $this->assertIsInt($this->obj->value);
 
         $this->obj->value = -123;
         $this->assertEquals(-123, $this->obj->value);
-        $this->assertInternalType('integer', $this->obj->value);
+        $this->assertIsInt($this->obj->value);
 
         $this->obj->value = 123.00;
         $this->assertEquals(123.00, $this->obj->value);
-        $this->assertInternalType('float', $this->obj->value);
+        $this->assertIsFloat($this->obj->value);
 
         $this->obj->value = -123.00;
         $this->assertEquals(-123.00, $this->obj->value);
-        $this->assertInternalType('float', $this->obj->value);
+        $this->assertIsFloat($this->obj->value);
 
         $this->obj->value = 123.45;
         $this->assertEquals(123.45, $this->obj->value);
-        $this->assertInternalType('float', $this->obj->value);
+        $this->assertIsFloat($this->obj->value);
 
         $this->obj->value = -123.45;
         $this->assertEquals(-123.45, $this->obj->value);
-        $this->assertInternalType('float', $this->obj->value);
+        $this->assertIsFloat($this->obj->value);
     }
 }

@@ -16,7 +16,7 @@ class EBayMotorsProBestOfferEnabledDefinitionTypeTest extends \PHPUnit\Framework
 {
     private $obj;
 
-    protected function setUp()
+    protected function setUp(): void
     {
         $this->obj = new EBayMotorsProBestOfferEnabledDefinitionType();
     }

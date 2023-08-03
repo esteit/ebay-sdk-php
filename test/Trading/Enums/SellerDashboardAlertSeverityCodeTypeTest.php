@@ -16,7 +16,7 @@ class SellerDashboardAlertSeverityCodeTypeTest extends \PHPUnit\Framework\TestCa
 {
     private $obj;
 
-    protected function setUp()
+    protected function setUp(): void
     {
         $this->obj = new SellerDashboardAlertSeverityCodeType();
     }

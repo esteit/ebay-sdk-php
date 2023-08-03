@@ -16,7 +16,7 @@ class MaxGranularFitmentCountDefinitionTypeTest extends \PHPUnit\Framework\TestC
 {
     private $obj;
 
-    protected function setUp()
+    protected function setUp(): void
     {
         $this->obj = new MaxGranularFitmentCountDefinitionType();
     }

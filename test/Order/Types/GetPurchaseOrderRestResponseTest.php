@@ -16,7 +16,7 @@ class GetPurchaseOrderRestResponseTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 
-    protected function setUp()
+    protected function setUp(): void
     {
         $this->obj = new GetPurchaseOrderRestResponse();
     }

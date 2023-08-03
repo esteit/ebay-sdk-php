@@ -16,7 +16,7 @@ class VerifyAddSecondChanceItemResponseTypeTest extends \PHPUnit\Framework\TestC
 {
     private $obj;
 
-    protected function setUp()
+    protected function setUp(): void
     {
         $this->obj = new VerifyAddSecondChanceItemResponseType();
     }

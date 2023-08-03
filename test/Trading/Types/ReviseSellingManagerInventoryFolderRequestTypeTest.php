@@ -16,7 +16,7 @@ class ReviseSellingManagerInventoryFolderRequestTypeTest extends \PHPUnit\Framew
 {
     private $obj;
 
-    protected function setUp()
+    protected function setUp(): void
     {
         $this->obj = new ReviseSellingManagerInventoryFolderRequestType();
     }

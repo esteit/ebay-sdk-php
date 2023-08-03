@@ -16,7 +16,7 @@ class LocalMarketRegularSubscriptionDefinitionTypeTest extends \PHPUnit\Framewor
 {
     private $obj;
 
-    protected function setUp()
+    protected function setUp(): void
     {
         $this->obj = new LocalMarketRegularSubscriptionDefinitionType();
     }

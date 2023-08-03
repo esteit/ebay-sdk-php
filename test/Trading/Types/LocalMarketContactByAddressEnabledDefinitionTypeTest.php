@@ -16,7 +16,7 @@ class LocalMarketContactByAddressEnabledDefinitionTypeTest extends \PHPUnit\Fram
 {
     private $obj;
 
-    protected function setUp()
+    protected function setUp(): void
     {
         $this->obj = new LocalMarketContactByAddressEnabledDefinitionType();
     }

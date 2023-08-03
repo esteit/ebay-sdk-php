@@ -16,7 +16,7 @@ class DeleteSellingManagerTemplateAutomationRuleRequestTypeTest extends \PHPUnit
 {
     private $obj;
 
-    protected function setUp()
+    protected function setUp(): void
     {
         $this->obj = new DeleteSellingManagerTemplateAutomationRuleRequestType();
     }

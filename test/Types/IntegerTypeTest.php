@@ -7,7 +7,7 @@ class IntegerTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 
-    protected function setUp()
+    protected function setUp(): void
     {
         $this->obj = new IntegerType();
     }
@@ -26,6 +26,6 @@ class IntegerTypeTest extends \PHPUnit\Framework\TestCase
     {
         $this->obj->value = 123;
         $this->assertEquals(123, $this->obj->value);
-        $this->assertInternalType('integer', $this->obj->value);
+        $this->assertIsInt($this->obj->value);
     }
 }

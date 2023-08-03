@@ -16,7 +16,7 @@ class GetReturnPoliciesByMarketplaceRestRequestTest extends \PHPUnit\Framework\T
 {
     private $obj;
 
-    protected function setUp()
+    protected function setUp(): void
     {
         $this->obj = new GetReturnPoliciesByMarketplaceRestRequest();
     }

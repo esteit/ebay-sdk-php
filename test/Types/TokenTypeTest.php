@@ -7,7 +7,7 @@ class TokenTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 
-    protected function setUp()
+    protected function setUp(): void
     {
         $this->obj = new TokenType();
     }
@@ -26,6 +26,6 @@ class TokenTypeTest extends \PHPUnit\Framework\TestCase
     {
         $this->obj->value = 'foo';
         $this->assertEquals('foo', $this->obj->value);
-        $this->assertInternalType('string', $this->obj->value);
+        $this->assertIsString($this->obj->value);
     }
 }

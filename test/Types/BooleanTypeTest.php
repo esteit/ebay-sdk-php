@@ -7,7 +7,7 @@ class BooleanTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 
-    protected function setUp()
+    protected function setUp(): void
     {
         $this->obj = new BooleanType();
     }
@@ -26,6 +26,6 @@ class BooleanTypeTest extends \PHPUnit\Framework\TestCase
     {
         $this->obj->value = true;
         $this->assertEquals(true, $this->obj->value);
-        $this->assertInternalType('boolean', $this->obj->value);
+        $this->assertIsBool($this->obj->value);
     }
 }

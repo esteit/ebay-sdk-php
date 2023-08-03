@@ -16,7 +16,7 @@ class ReportTaskPagedCollectionTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 
-    protected function setUp()
+    protected function setUp(): void
     {
         $this->obj = new ReportTaskPagedCollection();
     }

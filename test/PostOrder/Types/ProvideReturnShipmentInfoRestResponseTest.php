@@ -16,7 +16,7 @@ class ProvideReturnShipmentInfoRestResponseTest extends \PHPUnit\Framework\TestC
 {
     private $obj;
 
-    protected function setUp()
+    protected function setUp(): void
     {
         $this->obj = new ProvideReturnShipmentInfoRestResponse();
     }

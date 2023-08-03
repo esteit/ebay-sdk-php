@@ -16,7 +16,7 @@ class GetSellingManagerInventoryResponseTypeTest extends \PHPUnit\Framework\Test
 {
     private $obj;
 
-    protected function setUp()
+    protected function setUp(): void
     {
         $this->obj = new GetSellingManagerInventoryResponseType();
     }

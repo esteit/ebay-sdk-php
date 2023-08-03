@@ -16,7 +16,7 @@ class AddItemFromSellingManagerTemplateResponseTypeTest extends \PHPUnit\Framewo
 {
     private $obj;
 
-    protected function setUp()
+    protected function setUp(): void
     {
         $this->obj = new AddItemFromSellingManagerTemplateResponseType();
     }

@@ -12,7 +12,7 @@ class AttachmentTest extends \PHPUnit\Framework\TestCase
     private $request;
     private $requestXml;
 
-    protected function setUp()
+    protected function setUp(): void
     {
         /**
          * Use a class that will fake sending requests and getting responses.

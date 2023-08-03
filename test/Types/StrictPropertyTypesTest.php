@@ -7,13 +7,13 @@ class StrictPropertyTypesTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 
-    protected function setUp()
+    protected function setUp(): void
     {
         \DTS\eBaySDK\Sdk::$STRICT_PROPERTY_TYPES = false;
         $this->obj = new ComplexClass();
     }
 
-    protected function tearDown()
+    protected function tearDown(): void
     {
         \DTS\eBaySDK\Sdk::$STRICT_PROPERTY_TYPES = true;
     }
@@ -37,19 +37,15 @@ class StrictPropertyTypesTest extends \PHPUnit\Framework\TestCase
         $this->assertEquals(123, $this->obj->strings[0]);
     }
 
-    /**
-     * @expectedException \DTS\eBaySDK\Exceptions\InvalidPropertyTypeException
-     */
     public function testSettingComplexPropertiesThrows()
     {
+        $this->expectException(\DTS\eBaySDK\Exceptions\InvalidPropertyTypeException::class);
         $this->obj->SimpleClass = 'foo';
     }
 
-    /**
-     * @expectedException \DTS\eBaySDK\Exceptions\InvalidPropertyTypeException
-     */
     public function testSettingComplexRepeatablePropertiesThrows()
     {
+        $this->expectException(\DTS\eBaySDK\Exceptions\InvalidPropertyTypeException::class);
         $this->obj->simpleClasses[] = 'foo';
     }
 }

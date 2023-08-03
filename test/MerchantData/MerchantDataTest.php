@@ -7,7 +7,7 @@ class MerchantDataTest extends \PHPUnit\Framework\TestCase
 {
     private $merchantData;
 
-    protected function setUp()
+    protected function setUp(): void
     {
         $this->merchantData = new MerchantData();
     }

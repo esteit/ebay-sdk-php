@@ -16,7 +16,7 @@ class MaximumBuyerPolicyViolationsDetailsTypeTest extends \PHPUnit\Framework\Tes
 {
     private $obj;
 
-    protected function setUp()
+    protected function setUp(): void
     {
         $this->obj = new MaximumBuyerPolicyViolationsDetailsType();
     }

@@ -16,7 +16,7 @@ class BulkCreateAdsByInventoryReferenceRequestTest extends \PHPUnit\Framework\Te
 {
     private $obj;
 
-    protected function setUp()
+    protected function setUp(): void
     {
         $this->obj = new BulkCreateAdsByInventoryReferenceRequest();
     }

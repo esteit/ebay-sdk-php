@@ -16,7 +16,7 @@ class BulkDeleteAdsByListingIDRestRequestTest extends \PHPUnit\Framework\TestCas
 {
     private $obj;
 
-    protected function setUp()
+    protected function setUp(): void
     {
         $this->obj = new BulkDeleteAdsByListingIDRestRequest();
     }
