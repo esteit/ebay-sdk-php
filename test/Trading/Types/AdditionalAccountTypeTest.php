@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\AdditionalAccountType;
 
-class AdditionalAccountTypeTest extends \PHPUnit_Framework_TestCase
+class AdditionalAccountTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

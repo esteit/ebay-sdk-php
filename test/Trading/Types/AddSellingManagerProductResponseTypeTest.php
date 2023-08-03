@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\AddSellingManagerProductResponseType;
 
-class AddSellingManagerProductResponseTypeTest extends \PHPUnit_Framework_TestCase
+class AddSellingManagerProductResponseTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

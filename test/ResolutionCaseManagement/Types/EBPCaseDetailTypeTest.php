@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\ResolutionCaseManagement\Types;
 
 use DTS\eBaySDK\ResolutionCaseManagement\Types\EBPCaseDetailType;
 
-class EBPCaseDetailTypeTest extends \PHPUnit_Framework_TestCase
+class EBPCaseDetailTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

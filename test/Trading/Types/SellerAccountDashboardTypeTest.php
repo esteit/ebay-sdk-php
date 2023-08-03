@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\SellerAccountDashboardType;
 
-class SellerAccountDashboardTypeTest extends \PHPUnit_Framework_TestCase
+class SellerAccountDashboardTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

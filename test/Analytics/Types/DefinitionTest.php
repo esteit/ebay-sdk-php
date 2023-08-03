@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Analytics\Types;
 
 use DTS\eBaySDK\Analytics\Types\Definition;
 
-class DefinitionTest extends \PHPUnit_Framework_TestCase
+class DefinitionTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

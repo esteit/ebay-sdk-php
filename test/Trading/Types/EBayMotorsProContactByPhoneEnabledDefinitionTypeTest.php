@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\EBayMotorsProContactByPhoneEnabledDefinitionType;
 
-class EBayMotorsProContactByPhoneEnabledDefinitionTypeTest extends \PHPUnit_Framework_TestCase
+class EBayMotorsProContactByPhoneEnabledDefinitionTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

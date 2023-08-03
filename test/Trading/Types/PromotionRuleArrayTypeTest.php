@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\PromotionRuleArrayType;
 
-class PromotionRuleArrayTypeTest extends \PHPUnit_Framework_TestCase
+class PromotionRuleArrayTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

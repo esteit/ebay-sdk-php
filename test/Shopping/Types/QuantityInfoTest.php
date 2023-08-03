@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Shopping\Types;
 
 use DTS\eBaySDK\Shopping\Types\QuantityInfo;
 
-class QuantityInfoTest extends \PHPUnit_Framework_TestCase
+class QuantityInfoTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

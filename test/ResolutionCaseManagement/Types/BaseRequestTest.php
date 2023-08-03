@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\ResolutionCaseManagement\Types;
 
 use DTS\eBaySDK\ResolutionCaseManagement\Types\BaseRequest;
 
-class BaseRequestTest extends \PHPUnit_Framework_TestCase
+class BaseRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

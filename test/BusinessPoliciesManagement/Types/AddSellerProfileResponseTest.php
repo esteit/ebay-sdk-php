@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\BusinessPoliciesManagement\Types;
 
 use DTS\eBaySDK\BusinessPoliciesManagement\Types\AddSellerProfileResponse;
 
-class AddSellerProfileResponseTest extends \PHPUnit_Framework_TestCase
+class AddSellerProfileResponseTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

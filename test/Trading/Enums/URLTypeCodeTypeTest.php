@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Enums;
 
 use DTS\eBaySDK\Trading\Enums\URLTypeCodeType;
 
-class URLTypeCodeTypeTest extends \PHPUnit_Framework_TestCase
+class URLTypeCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

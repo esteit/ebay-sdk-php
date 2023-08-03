@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\MerchantData\Types;
 
 use DTS\eBaySDK\MerchantData\Types\NameValueListType;
 
-class NameValueListTypeTest extends \PHPUnit_Framework_TestCase
+class NameValueListTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

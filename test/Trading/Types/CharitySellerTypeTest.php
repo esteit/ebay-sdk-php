@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\CharitySellerType;
 
-class CharitySellerTypeTest extends \PHPUnit_Framework_TestCase
+class CharitySellerTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

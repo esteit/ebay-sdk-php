@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\BidGroupType;
 
-class BidGroupTypeTest extends \PHPUnit_Framework_TestCase
+class BidGroupTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

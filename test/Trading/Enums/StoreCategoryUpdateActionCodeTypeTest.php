@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Enums;
 
 use DTS\eBaySDK\Trading\Enums\StoreCategoryUpdateActionCodeType;
 
-class StoreCategoryUpdateActionCodeTypeTest extends \PHPUnit_Framework_TestCase
+class StoreCategoryUpdateActionCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

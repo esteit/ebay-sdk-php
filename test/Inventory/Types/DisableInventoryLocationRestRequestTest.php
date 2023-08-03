@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Inventory\Types;
 
 use DTS\eBaySDK\Inventory\Types\DisableInventoryLocationRestRequest;
 
-class DisableInventoryLocationRestRequestTest extends \PHPUnit_Framework_TestCase
+class DisableInventoryLocationRestRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

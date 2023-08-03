@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Inventory\Types;
 
 use DTS\eBaySDK\Inventory\Types\MigrateListing;
 
-class MigrateListingTest extends \PHPUnit_Framework_TestCase
+class MigrateListingTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

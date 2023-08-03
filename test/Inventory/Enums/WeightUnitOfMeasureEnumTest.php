@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Inventory\Enums;
 
 use DTS\eBaySDK\Inventory\Enums\WeightUnitOfMeasureEnum;
 
-class WeightUnitOfMeasureEnumTest extends \PHPUnit_Framework_TestCase
+class WeightUnitOfMeasureEnumTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

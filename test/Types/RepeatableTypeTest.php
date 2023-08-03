@@ -3,7 +3,7 @@ namespace DTS\eBaySDK\Types\Test;
 
 use DTS\eBaySDK\Types\RepeatableType;
 
-class RepeatableTypeTest extends \PHPUnit_Framework_TestCase
+class RepeatableTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

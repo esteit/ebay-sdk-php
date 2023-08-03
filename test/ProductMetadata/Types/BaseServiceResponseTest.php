@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\ProductMetadata\Types;
 
 use DTS\eBaySDK\ProductMetadata\Types\BaseServiceResponse;
 
-class BaseServiceResponseTest extends \PHPUnit_Framework_TestCase
+class BaseServiceResponseTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

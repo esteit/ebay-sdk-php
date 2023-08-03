@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Enums;
 
 use DTS\eBaySDK\Trading\Enums\CharityAffiliationTypeCodeType;
 
-class CharityAffiliationTypeCodeTypeTest extends \PHPUnit_Framework_TestCase
+class CharityAffiliationTypeCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\ExpressConditionRequiredDefinitionType;
 
-class ExpressConditionRequiredDefinitionTypeTest extends \PHPUnit_Framework_TestCase
+class ExpressConditionRequiredDefinitionTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

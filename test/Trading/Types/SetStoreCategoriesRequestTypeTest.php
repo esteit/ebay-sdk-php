@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\SetStoreCategoriesRequestType;
 
-class SetStoreCategoriesRequestTypeTest extends \PHPUnit_Framework_TestCase
+class SetStoreCategoriesRequestTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

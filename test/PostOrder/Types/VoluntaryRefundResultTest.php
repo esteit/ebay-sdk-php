@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\PostOrder\Types;
 
 use DTS\eBaySDK\PostOrder\Types\VoluntaryRefundResult;
 
-class VoluntaryRefundResultTest extends \PHPUnit_Framework_TestCase
+class VoluntaryRefundResultTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

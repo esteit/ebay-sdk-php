@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\MerchantData\Enums;
 
 use DTS\eBaySDK\MerchantData\Enums\PayoutMethodType;
 
-class PayoutMethodTypeTest extends \PHPUnit_Framework_TestCase
+class PayoutMethodTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

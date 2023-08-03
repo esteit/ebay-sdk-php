@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\ScheduleType;
 
-class ScheduleTypeTest extends \PHPUnit_Framework_TestCase
+class ScheduleTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

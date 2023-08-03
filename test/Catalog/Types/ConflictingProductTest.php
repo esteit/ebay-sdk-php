@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Catalog\Types;
 
 use DTS\eBaySDK\Catalog\Types\ConflictingProduct;
 
-class ConflictingProductTest extends \PHPUnit_Framework_TestCase
+class ConflictingProductTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

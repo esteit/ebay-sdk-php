@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\MerchantData\Enums;
 
 use DTS\eBaySDK\MerchantData\Enums\PickupStatusCodeType;
 
-class PickupStatusCodeTypeTest extends \PHPUnit_Framework_TestCase
+class PickupStatusCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

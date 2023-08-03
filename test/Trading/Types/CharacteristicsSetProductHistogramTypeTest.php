@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\CharacteristicsSetProductHistogramType;
 
-class CharacteristicsSetProductHistogramTypeTest extends \PHPUnit_Framework_TestCase
+class CharacteristicsSetProductHistogramTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

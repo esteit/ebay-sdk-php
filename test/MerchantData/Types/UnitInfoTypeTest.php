@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\MerchantData\Types;
 
 use DTS\eBaySDK\MerchantData\Types\UnitInfoType;
 
-class UnitInfoTypeTest extends \PHPUnit_Framework_TestCase
+class UnitInfoTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

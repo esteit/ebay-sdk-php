@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\MerchantData\Types;
 
 use DTS\eBaySDK\MerchantData\Types\PickupMethodSelectedType;
 
-class PickupMethodSelectedTypeTest extends \PHPUnit_Framework_TestCase
+class PickupMethodSelectedTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

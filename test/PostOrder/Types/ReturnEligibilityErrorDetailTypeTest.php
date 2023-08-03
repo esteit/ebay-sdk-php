@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\PostOrder\Types;
 
 use DTS\eBaySDK\PostOrder\Types\ReturnEligibilityErrorDetailType;
 
-class ReturnEligibilityErrorDetailTypeTest extends \PHPUnit_Framework_TestCase
+class ReturnEligibilityErrorDetailTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Inventory\Types;
 
 use DTS\eBaySDK\Inventory\Types\PriceQuantityResponse;
 
-class PriceQuantityResponseTest extends \PHPUnit_Framework_TestCase
+class PriceQuantityResponseTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

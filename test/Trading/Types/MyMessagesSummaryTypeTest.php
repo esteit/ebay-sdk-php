@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\MyMessagesSummaryType;
 
-class MyMessagesSummaryTypeTest extends \PHPUnit_Framework_TestCase
+class MyMessagesSummaryTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

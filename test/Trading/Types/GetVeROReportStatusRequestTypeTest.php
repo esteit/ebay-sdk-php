@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\GetVeROReportStatusRequestType;
 
-class GetVeROReportStatusRequestTypeTest extends \PHPUnit_Framework_TestCase
+class GetVeROReportStatusRequestTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

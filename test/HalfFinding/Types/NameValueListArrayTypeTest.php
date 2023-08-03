@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\HalfFinding\Types;
 
 use DTS\eBaySDK\HalfFinding\Types\NameValueListArrayType;
 
-class NameValueListArrayTypeTest extends \PHPUnit_Framework_TestCase
+class NameValueListArrayTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

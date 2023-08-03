@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\PostOrder\Types;
 
 use DTS\eBaySDK\PostOrder\Types\CreateCustomListRequest;
 
-class CreateCustomListRequestTest extends \PHPUnit_Framework_TestCase
+class CreateCustomListRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

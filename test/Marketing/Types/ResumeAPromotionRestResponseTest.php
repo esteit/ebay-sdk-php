@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Marketing\Types;
 
 use DTS\eBaySDK\Marketing\Types\ResumeAPromotionRestResponse;
 
-class ResumeAPromotionRestResponseTest extends \PHPUnit_Framework_TestCase
+class ResumeAPromotionRestResponseTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

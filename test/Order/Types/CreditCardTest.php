@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Order\Types;
 
 use DTS\eBaySDK\Order\Types\CreditCard;
 
-class CreditCardTest extends \PHPUnit_Framework_TestCase
+class CreditCardTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

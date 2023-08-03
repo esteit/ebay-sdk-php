@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\LookupAttributeType;
 
-class LookupAttributeTypeTest extends \PHPUnit_Framework_TestCase
+class LookupAttributeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

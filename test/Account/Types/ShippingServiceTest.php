@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Account\Types;
 
 use DTS\eBaySDK\Account\Types\ShippingService;
 
-class ShippingServiceTest extends \PHPUnit_Framework_TestCase
+class ShippingServiceTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Shopping\Enums;
 
 use DTS\eBaySDK\Shopping\Enums\InsuranceOptionCodeType;
 
-class InsuranceOptionCodeTypeTest extends \PHPUnit_Framework_TestCase
+class InsuranceOptionCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

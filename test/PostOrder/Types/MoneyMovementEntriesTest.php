@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\PostOrder\Types;
 
 use DTS\eBaySDK\PostOrder\Types\MoneyMovementEntries;
 
-class MoneyMovementEntriesTest extends \PHPUnit_Framework_TestCase
+class MoneyMovementEntriesTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

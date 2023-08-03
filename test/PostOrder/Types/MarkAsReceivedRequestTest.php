@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\PostOrder\Types;
 
 use DTS\eBaySDK\PostOrder\Types\MarkAsReceivedRequest;
 
-class MarkAsReceivedRequestTest extends \PHPUnit_Framework_TestCase
+class MarkAsReceivedRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

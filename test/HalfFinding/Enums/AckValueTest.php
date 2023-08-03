@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\HalfFinding\Enums;
 
 use DTS\eBaySDK\HalfFinding\Enums\AckValue;
 
-class AckValueTest extends \PHPUnit_Framework_TestCase
+class AckValueTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

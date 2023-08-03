@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Browse\Types;
 
 use DTS\eBaySDK\Browse\Types\CategoryDistribution;
 
-class CategoryDistributionTest extends \PHPUnit_Framework_TestCase
+class CategoryDistributionTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

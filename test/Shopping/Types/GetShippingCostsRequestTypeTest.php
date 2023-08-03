@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Shopping\Types;
 
 use DTS\eBaySDK\Shopping\Types\GetShippingCostsRequestType;
 
-class GetShippingCostsRequestTypeTest extends \PHPUnit_Framework_TestCase
+class GetShippingCostsRequestTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

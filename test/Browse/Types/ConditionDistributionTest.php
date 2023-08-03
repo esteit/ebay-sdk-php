@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Browse\Types;
 
 use DTS\eBaySDK\Browse\Types\ConditionDistribution;
 
-class ConditionDistributionTest extends \PHPUnit_Framework_TestCase
+class ConditionDistributionTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

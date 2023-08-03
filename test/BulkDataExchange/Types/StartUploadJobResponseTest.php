@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\BulkDataExchange\Types;
 
 use DTS\eBaySDK\BulkDataExchange\Types\StartUploadJobResponse;
 
-class StartUploadJobResponseTest extends \PHPUnit_Framework_TestCase
+class StartUploadJobResponseTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

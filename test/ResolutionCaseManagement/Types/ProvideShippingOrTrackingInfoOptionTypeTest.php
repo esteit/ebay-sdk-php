@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\ResolutionCaseManagement\Types;
 
 use DTS\eBaySDK\ResolutionCaseManagement\Types\ProvideShippingOrTrackingInfoOptionType;
 
-class ProvideShippingOrTrackingInfoOptionTypeTest extends \PHPUnit_Framework_TestCase
+class ProvideShippingOrTrackingInfoOptionTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

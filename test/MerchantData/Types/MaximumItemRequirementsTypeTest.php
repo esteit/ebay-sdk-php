@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\MerchantData\Types;
 
 use DTS\eBaySDK\MerchantData\Types\MaximumItemRequirementsType;
 
-class MaximumItemRequirementsTypeTest extends \PHPUnit_Framework_TestCase
+class MaximumItemRequirementsTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

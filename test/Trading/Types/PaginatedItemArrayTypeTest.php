@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\PaginatedItemArrayType;
 
-class PaginatedItemArrayTypeTest extends \PHPUnit_Framework_TestCase
+class PaginatedItemArrayTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

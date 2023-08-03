@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Browse\Enums;
 
 use DTS\eBaySDK\Browse\Enums\ValueTypeEnum;
 
-class ValueTypeEnumTest extends \PHPUnit_Framework_TestCase
+class ValueTypeEnumTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

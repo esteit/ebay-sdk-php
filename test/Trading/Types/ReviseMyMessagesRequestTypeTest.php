@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\ReviseMyMessagesRequestType;
 
-class ReviseMyMessagesRequestTypeTest extends \PHPUnit_Framework_TestCase
+class ReviseMyMessagesRequestTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

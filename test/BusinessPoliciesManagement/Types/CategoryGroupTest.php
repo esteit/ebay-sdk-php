@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\BusinessPoliciesManagement\Types;
 
 use DTS\eBaySDK\BusinessPoliciesManagement\Types\CategoryGroup;
 
-class CategoryGroupTest extends \PHPUnit_Framework_TestCase
+class CategoryGroupTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

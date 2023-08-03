@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\MerchantData\Types;
 
 use DTS\eBaySDK\MerchantData\Types\TransactionStatusType;
 
-class TransactionStatusTypeTest extends \PHPUnit_Framework_TestCase
+class TransactionStatusTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

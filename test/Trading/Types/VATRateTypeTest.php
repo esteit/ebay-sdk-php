@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\VATRateType;
 
-class VATRateTypeTest extends \PHPUnit_Framework_TestCase
+class VATRateTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

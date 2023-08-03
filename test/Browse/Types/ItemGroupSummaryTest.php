@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Browse\Types;
 
 use DTS\eBaySDK\Browse\Types\ItemGroupSummary;
 
-class ItemGroupSummaryTest extends \PHPUnit_Framework_TestCase
+class ItemGroupSummaryTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\ReturnManagement\Types;
 
 use DTS\eBaySDK\ReturnManagement\Types\CaseIdType;
 
-class CaseIdTypeTest extends \PHPUnit_Framework_TestCase
+class CaseIdTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

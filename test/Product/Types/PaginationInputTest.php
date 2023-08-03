@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Product\Types;
 
 use DTS\eBaySDK\Product\Types\PaginationInput;
 
-class PaginationInputTest extends \PHPUnit_Framework_TestCase
+class PaginationInputTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

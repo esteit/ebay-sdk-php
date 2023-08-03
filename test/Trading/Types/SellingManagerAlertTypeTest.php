@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\SellingManagerAlertType;
 
-class SellingManagerAlertTypeTest extends \PHPUnit_Framework_TestCase
+class SellingManagerAlertTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

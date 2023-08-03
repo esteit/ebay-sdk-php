@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\PostOrder\Types;
 
 use DTS\eBaySDK\PostOrder\Types\ReturnItemType;
 
-class ReturnItemTypeTest extends \PHPUnit_Framework_TestCase
+class ReturnItemTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

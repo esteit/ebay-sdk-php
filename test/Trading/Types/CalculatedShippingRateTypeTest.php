@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\CalculatedShippingRateType;
 
-class CalculatedShippingRateTypeTest extends \PHPUnit_Framework_TestCase
+class CalculatedShippingRateTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

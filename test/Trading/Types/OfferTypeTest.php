@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\OfferType;
 
-class OfferTypeTest extends \PHPUnit_Framework_TestCase
+class OfferTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

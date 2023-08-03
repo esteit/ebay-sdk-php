@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\MerchantData\Types;
 
 use DTS\eBaySDK\MerchantData\Types\BotBlockResponseType;
 
-class BotBlockResponseTypeTest extends \PHPUnit_Framework_TestCase
+class BotBlockResponseTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\DeleteSellingManagerTemplateAutomationRuleResponseType;
 
-class DeleteSellingManagerTemplateAutomationRuleResponseTypeTest extends \PHPUnit_Framework_TestCase
+class DeleteSellingManagerTemplateAutomationRuleResponseTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

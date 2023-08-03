@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\SiteDefaultsType;
 
-class SiteDefaultsTypeTest extends \PHPUnit_Framework_TestCase
+class SiteDefaultsTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

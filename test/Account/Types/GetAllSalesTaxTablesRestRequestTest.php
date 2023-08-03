@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Account\Types;
 
 use DTS\eBaySDK\Account\Types\GetAllSalesTaxTablesRestRequest;
 
-class GetAllSalesTaxTablesRestRequestTest extends \PHPUnit_Framework_TestCase
+class GetAllSalesTaxTablesRestRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

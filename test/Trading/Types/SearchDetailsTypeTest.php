@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\SearchDetailsType;
 
-class SearchDetailsTypeTest extends \PHPUnit_Framework_TestCase
+class SearchDetailsTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

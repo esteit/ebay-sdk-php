@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Feed\Types;
 
 use DTS\eBaySDK\Feed\Types\ItemFeedResponse;
 
-class ItemFeedResponseTest extends \PHPUnit_Framework_TestCase
+class ItemFeedResponseTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

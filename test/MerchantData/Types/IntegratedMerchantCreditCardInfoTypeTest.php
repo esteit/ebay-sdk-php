@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\MerchantData\Types;
 
 use DTS\eBaySDK\MerchantData\Types\IntegratedMerchantCreditCardInfoType;
 
-class IntegratedMerchantCreditCardInfoTypeTest extends \PHPUnit_Framework_TestCase
+class IntegratedMerchantCreditCardInfoTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Shopping\Types;
 
 use DTS\eBaySDK\Shopping\Types\GetSingleItemRequestType;
 
-class GetSingleItemRequestTypeTest extends \PHPUnit_Framework_TestCase
+class GetSingleItemRequestTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

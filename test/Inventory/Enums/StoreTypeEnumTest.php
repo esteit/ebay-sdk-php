@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Inventory\Enums;
 
 use DTS\eBaySDK\Inventory\Enums\StoreTypeEnum;
 
-class StoreTypeEnumTest extends \PHPUnit_Framework_TestCase
+class StoreTypeEnumTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

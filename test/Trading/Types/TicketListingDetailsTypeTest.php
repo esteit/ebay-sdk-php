@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\TicketListingDetailsType;
 
-class TicketListingDetailsTypeTest extends \PHPUnit_Framework_TestCase
+class TicketListingDetailsTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\PostOrder\Types;
 
 use DTS\eBaySDK\PostOrder\Types\GetTrackingHistoryResponse;
 
-class GetTrackingHistoryResponseTest extends \PHPUnit_Framework_TestCase
+class GetTrackingHistoryResponseTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Fulfillment\Types;
 
 use DTS\eBaySDK\Fulfillment\Types\CancelRequest;
 
-class CancelRequestTest extends \PHPUnit_Framework_TestCase
+class CancelRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

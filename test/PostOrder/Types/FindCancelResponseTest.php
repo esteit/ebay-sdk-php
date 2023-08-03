@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\PostOrder\Types;
 
 use DTS\eBaySDK\PostOrder\Types\FindCancelResponse;
 
-class FindCancelResponseTest extends \PHPUnit_Framework_TestCase
+class FindCancelResponseTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

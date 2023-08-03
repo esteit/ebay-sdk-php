@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Enums;
 
 use DTS\eBaySDK\Trading\Enums\SellingManagerAlertTypeCodeType;
 
-class SellingManagerAlertTypeCodeTypeTest extends \PHPUnit_Framework_TestCase
+class SellingManagerAlertTypeCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

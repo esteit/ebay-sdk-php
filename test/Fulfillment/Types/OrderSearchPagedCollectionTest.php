@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Fulfillment\Types;
 
 use DTS\eBaySDK\Fulfillment\Types\OrderSearchPagedCollection;
 
-class OrderSearchPagedCollectionTest extends \PHPUnit_Framework_TestCase
+class OrderSearchPagedCollectionTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

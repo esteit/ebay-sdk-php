@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Enums;
 
 use DTS\eBaySDK\Trading\Enums\DayOfWeekCodeType;
 
-class DayOfWeekCodeTypeTest extends \PHPUnit_Framework_TestCase
+class DayOfWeekCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

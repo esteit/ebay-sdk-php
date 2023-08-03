@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Enums;
 
 use DTS\eBaySDK\Trading\Enums\SeverityCodeType;
 
-class SeverityCodeTypeTest extends \PHPUnit_Framework_TestCase
+class SeverityCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

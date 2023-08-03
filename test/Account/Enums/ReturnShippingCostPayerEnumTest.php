@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Account\Enums;
 
 use DTS\eBaySDK\Account\Enums\ReturnShippingCostPayerEnum;
 
-class ReturnShippingCostPayerEnumTest extends \PHPUnit_Framework_TestCase
+class ReturnShippingCostPayerEnumTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

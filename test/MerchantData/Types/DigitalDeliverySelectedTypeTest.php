@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\MerchantData\Types;
 
 use DTS\eBaySDK\MerchantData\Types\DigitalDeliverySelectedType;
 
-class DigitalDeliverySelectedTypeTest extends \PHPUnit_Framework_TestCase
+class DigitalDeliverySelectedTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

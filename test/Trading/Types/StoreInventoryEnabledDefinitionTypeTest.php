@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\StoreInventoryEnabledDefinitionType;
 
-class StoreInventoryEnabledDefinitionTypeTest extends \PHPUnit_Framework_TestCase
+class StoreInventoryEnabledDefinitionTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\MerchantData\Types;
 
 use DTS\eBaySDK\MerchantData\Types\Base64BinaryType;
 
-class Base64BinaryTypeTest extends \PHPUnit_Framework_TestCase
+class Base64BinaryTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

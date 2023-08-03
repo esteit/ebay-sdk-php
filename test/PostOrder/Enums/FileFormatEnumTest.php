@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\PostOrder\Enums;
 
 use DTS\eBaySDK\PostOrder\Enums\FileFormatEnum;
 
-class FileFormatEnumTest extends \PHPUnit_Framework_TestCase
+class FileFormatEnumTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

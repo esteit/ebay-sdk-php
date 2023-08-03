@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\PostOrder\Types;
 
 use DTS\eBaySDK\PostOrder\Types\RefundType;
 
-class RefundTypeTest extends \PHPUnit_Framework_TestCase
+class RefundTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Account\Enums;
 
 use DTS\eBaySDK\Account\Enums\RegionTypeEnum;
 
-class RegionTypeEnumTest extends \PHPUnit_Framework_TestCase
+class RegionTypeEnumTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

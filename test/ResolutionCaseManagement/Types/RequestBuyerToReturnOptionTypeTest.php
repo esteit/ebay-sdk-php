@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\ResolutionCaseManagement\Types;
 
 use DTS\eBaySDK\ResolutionCaseManagement\Types\RequestBuyerToReturnOptionType;
 
-class RequestBuyerToReturnOptionTypeTest extends \PHPUnit_Framework_TestCase
+class RequestBuyerToReturnOptionTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

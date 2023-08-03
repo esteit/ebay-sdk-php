@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\BulkDataExchange\Types;
 
 use DTS\eBaySDK\BulkDataExchange\Types\AbortRecurringJobExecutionResponse;
 
-class AbortRecurringJobExecutionResponseTest extends \PHPUnit_Framework_TestCase
+class AbortRecurringJobExecutionResponseTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

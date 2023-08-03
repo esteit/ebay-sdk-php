@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Enums;
 
 use DTS\eBaySDK\Trading\Enums\ItemSpecificSourceCodeType;
 
-class ItemSpecificSourceCodeTypeTest extends \PHPUnit_Framework_TestCase
+class ItemSpecificSourceCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

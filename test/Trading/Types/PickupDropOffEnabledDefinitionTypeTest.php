@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\PickupDropOffEnabledDefinitionType;
 
-class PickupDropOffEnabledDefinitionTypeTest extends \PHPUnit_Framework_TestCase
+class PickupDropOffEnabledDefinitionTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

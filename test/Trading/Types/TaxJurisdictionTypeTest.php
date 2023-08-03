@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\TaxJurisdictionType;
 
-class TaxJurisdictionTypeTest extends \PHPUnit_Framework_TestCase
+class TaxJurisdictionTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

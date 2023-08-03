@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\PostOrder\Types;
 
 use DTS\eBaySDK\PostOrder\Types\ReturnFileType;
 
-class ReturnFileTypeTest extends \PHPUnit_Framework_TestCase
+class ReturnFileTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

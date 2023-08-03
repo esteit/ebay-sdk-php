@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\GetNotificationsUsageRequestType;
 
-class GetNotificationsUsageRequestTypeTest extends \PHPUnit_Framework_TestCase
+class GetNotificationsUsageRequestTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

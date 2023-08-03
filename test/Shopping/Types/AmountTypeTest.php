@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Shopping\Types;
 
 use DTS\eBaySDK\Shopping\Types\AmountType;
 
-class AmountTypeTest extends \PHPUnit_Framework_TestCase
+class AmountTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

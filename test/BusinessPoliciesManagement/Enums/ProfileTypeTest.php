@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\BusinessPoliciesManagement\Enums;
 
 use DTS\eBaySDK\BusinessPoliciesManagement\Enums\ProfileType;
 
-class ProfileTypeTest extends \PHPUnit_Framework_TestCase
+class ProfileTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

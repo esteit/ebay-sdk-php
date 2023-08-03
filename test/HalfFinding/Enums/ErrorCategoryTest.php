@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\HalfFinding\Enums;
 
 use DTS\eBaySDK\HalfFinding\Enums\ErrorCategory;
 
-class ErrorCategoryTest extends \PHPUnit_Framework_TestCase
+class ErrorCategoryTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

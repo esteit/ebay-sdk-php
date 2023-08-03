@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\MyeBaySellingSummaryType;
 
-class MyeBaySellingSummaryTypeTest extends \PHPUnit_Framework_TestCase
+class MyeBaySellingSummaryTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

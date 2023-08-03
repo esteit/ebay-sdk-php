@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Compliance\Enums;
 
 use DTS\eBaySDK\Compliance\Enums\ComplianceTypeEnum;
 
-class ComplianceTypeEnumTest extends \PHPUnit_Framework_TestCase
+class ComplianceTypeEnumTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

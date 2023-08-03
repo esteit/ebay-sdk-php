@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Analytics\Types;
 
 use DTS\eBaySDK\Analytics\Types\GetASpecificSellerProfileRestRequest;
 
-class GetASpecificSellerProfileRestRequestTest extends \PHPUnit_Framework_TestCase
+class GetASpecificSellerProfileRestRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

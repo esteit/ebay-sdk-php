@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\MerchantData\Enums;
 
 use DTS\eBaySDK\MerchantData\Enums\SiteCodeType;
 
-class SiteCodeTypeTest extends \PHPUnit_Framework_TestCase
+class SiteCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

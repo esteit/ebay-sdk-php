@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\SetStoreCustomPageResponseType;
 
-class SetStoreCustomPageResponseTypeTest extends \PHPUnit_Framework_TestCase
+class SetStoreCustomPageResponseTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

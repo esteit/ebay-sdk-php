@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\PostOrder\Enums;
 
 use DTS\eBaySDK\PostOrder\Enums\ReturnMetadataKeyEnum;
 
-class ReturnMetadataKeyEnumTest extends \PHPUnit_Framework_TestCase
+class ReturnMetadataKeyEnumTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

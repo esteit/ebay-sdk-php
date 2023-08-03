@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\BuyerPackageEnclosuresType;
 
-class BuyerPackageEnclosuresTypeTest extends \PHPUnit_Framework_TestCase
+class BuyerPackageEnclosuresTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

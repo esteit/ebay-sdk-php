@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\AddMemberMessageAAQToPartnerResponseType;
 
-class AddMemberMessageAAQToPartnerResponseTypeTest extends \PHPUnit_Framework_TestCase
+class AddMemberMessageAAQToPartnerResponseTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -5,7 +5,7 @@ use DTS\eBaySDK\Test\Mocks\AmountClass;
 use DTS\eBaySDK\Test\Mocks\SimpleClass;
 use DTS\eBaySDK\Test\Mocks\ComplexClass;
 
-class ComplexClassTest extends \PHPUnit_Framework_TestCase
+class ComplexClassTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

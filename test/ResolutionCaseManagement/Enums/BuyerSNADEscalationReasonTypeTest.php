@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\ResolutionCaseManagement\Enums;
 
 use DTS\eBaySDK\ResolutionCaseManagement\Enums\BuyerSNADEscalationReasonType;
 
-class BuyerSNADEscalationReasonTypeTest extends \PHPUnit_Framework_TestCase
+class BuyerSNADEscalationReasonTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

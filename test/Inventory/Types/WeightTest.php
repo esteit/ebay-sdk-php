@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Inventory\Types;
 
 use DTS\eBaySDK\Inventory\Types\Weight;
 
-class WeightTest extends \PHPUnit_Framework_TestCase
+class WeightTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

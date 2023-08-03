@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\ReturnsAcceptedDetailsType;
 
-class ReturnsAcceptedDetailsTypeTest extends \PHPUnit_Framework_TestCase
+class ReturnsAcceptedDetailsTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

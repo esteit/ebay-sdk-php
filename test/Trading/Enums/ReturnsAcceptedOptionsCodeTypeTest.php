@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Enums;
 
 use DTS\eBaySDK\Trading\Enums\ReturnsAcceptedOptionsCodeType;
 
-class ReturnsAcceptedOptionsCodeTypeTest extends \PHPUnit_Framework_TestCase
+class ReturnsAcceptedOptionsCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

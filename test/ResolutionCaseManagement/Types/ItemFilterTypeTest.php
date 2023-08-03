@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\ResolutionCaseManagement\Types;
 
 use DTS\eBaySDK\ResolutionCaseManagement\Types\ItemFilterType;
 
-class ItemFilterTypeTest extends \PHPUnit_Framework_TestCase
+class ItemFilterTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

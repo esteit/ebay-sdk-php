@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Finding\Types;
 
 use DTS\eBaySDK\Finding\Types\Condition;
 
-class ConditionTest extends \PHPUnit_Framework_TestCase
+class ConditionTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

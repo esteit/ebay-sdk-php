@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\MerchantData\Types;
 
 use DTS\eBaySDK\MerchantData\Types\VariationType;
 
-class VariationTypeTest extends \PHPUnit_Framework_TestCase
+class VariationTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

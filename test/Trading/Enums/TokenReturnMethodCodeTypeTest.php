@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Enums;
 
 use DTS\eBaySDK\Trading\Enums\TokenReturnMethodCodeType;
 
-class TokenReturnMethodCodeTypeTest extends \PHPUnit_Framework_TestCase
+class TokenReturnMethodCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

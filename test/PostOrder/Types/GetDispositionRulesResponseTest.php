@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\PostOrder\Types;
 
 use DTS\eBaySDK\PostOrder\Types\GetDispositionRulesResponse;
 
-class GetDispositionRulesResponseTest extends \PHPUnit_Framework_TestCase
+class GetDispositionRulesResponseTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

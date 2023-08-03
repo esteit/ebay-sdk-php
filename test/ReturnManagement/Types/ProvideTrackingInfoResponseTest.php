@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\ReturnManagement\Types;
 
 use DTS\eBaySDK\ReturnManagement\Types\ProvideTrackingInfoResponse;
 
-class ProvideTrackingInfoResponseTest extends \PHPUnit_Framework_TestCase
+class ProvideTrackingInfoResponseTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

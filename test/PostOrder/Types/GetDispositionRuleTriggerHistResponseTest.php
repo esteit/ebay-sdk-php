@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\PostOrder\Types;
 
 use DTS\eBaySDK\PostOrder\Types\GetDispositionRuleTriggerHistResponse;
 
-class GetDispositionRuleTriggerHistResponseTest extends \PHPUnit_Framework_TestCase
+class GetDispositionRuleTriggerHistResponseTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

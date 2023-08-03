@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Shopping\Types;
 
 use DTS\eBaySDK\Shopping\Types\CategoryArrayType;
 
-class CategoryArrayTypeTest extends \PHPUnit_Framework_TestCase
+class CategoryArrayTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

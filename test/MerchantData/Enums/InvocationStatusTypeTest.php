@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\MerchantData\Enums;
 
 use DTS\eBaySDK\MerchantData\Enums\InvocationStatusType;
 
-class InvocationStatusTypeTest extends \PHPUnit_Framework_TestCase
+class InvocationStatusTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

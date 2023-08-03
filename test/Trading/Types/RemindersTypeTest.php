@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\RemindersType;
 
-class RemindersTypeTest extends \PHPUnit_Framework_TestCase
+class RemindersTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

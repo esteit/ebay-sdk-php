@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\UserType;
 
-class UserTypeTest extends \PHPUnit_Framework_TestCase
+class UserTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

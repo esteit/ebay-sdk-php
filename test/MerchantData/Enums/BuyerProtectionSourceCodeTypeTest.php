@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\MerchantData\Enums;
 
 use DTS\eBaySDK\MerchantData\Enums\BuyerProtectionSourceCodeType;
 
-class BuyerProtectionSourceCodeTypeTest extends \PHPUnit_Framework_TestCase
+class BuyerProtectionSourceCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

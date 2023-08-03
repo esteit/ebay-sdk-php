@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\MerchantData\Enums;
 
 use DTS\eBaySDK\MerchantData\Enums\EndReasonCodeType;
 
-class EndReasonCodeTypeTest extends \PHPUnit_Framework_TestCase
+class EndReasonCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

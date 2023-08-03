@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\ResolutionCaseManagement\Enums;
 
 use DTS\eBaySDK\ResolutionCaseManagement\Enums\CaseStatusInputType;
 
-class CaseStatusInputTypeTest extends \PHPUnit_Framework_TestCase
+class CaseStatusInputTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

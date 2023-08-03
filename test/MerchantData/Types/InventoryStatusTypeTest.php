@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\MerchantData\Types;
 
 use DTS\eBaySDK\MerchantData\Types\InventoryStatusType;
 
-class InventoryStatusTypeTest extends \PHPUnit_Framework_TestCase
+class InventoryStatusTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

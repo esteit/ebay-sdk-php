@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Browse\Types;
 
 use DTS\eBaySDK\Browse\Types\Items;
 
-class ItemsTest extends \PHPUnit_Framework_TestCase
+class ItemsTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

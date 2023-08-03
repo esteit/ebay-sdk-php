@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\MerchantData\Types;
 
 use DTS\eBaySDK\MerchantData\Types\ReviseFixedPriceItemRequestType;
 
-class ReviseFixedPriceItemRequestTypeTest extends \PHPUnit_Framework_TestCase
+class ReviseFixedPriceItemRequestTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

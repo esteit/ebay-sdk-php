@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Enums;
 
 use DTS\eBaySDK\Trading\Enums\NotificationEventStateCodeType;
 
-class NotificationEventStateCodeTypeTest extends \PHPUnit_Framework_TestCase
+class NotificationEventStateCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

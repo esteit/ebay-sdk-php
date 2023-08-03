@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Catalog\Enums;
 
 use DTS\eBaySDK\Catalog\Enums\ChangeRequestStatus;
 
-class ChangeRequestStatusTest extends \PHPUnit_Framework_TestCase
+class ChangeRequestStatusTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

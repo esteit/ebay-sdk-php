@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\ProductMetadata\Types;
 
 use DTS\eBaySDK\ProductMetadata\Types\PropertyValue;
 
-class PropertyValueTest extends \PHPUnit_Framework_TestCase
+class PropertyValueTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

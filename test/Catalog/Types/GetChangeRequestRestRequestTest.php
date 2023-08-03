@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Catalog\Types;
 
 use DTS\eBaySDK\Catalog\Types\GetChangeRequestRestRequest;
 
-class GetChangeRequestRestRequestTest extends \PHPUnit_Framework_TestCase
+class GetChangeRequestRestRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

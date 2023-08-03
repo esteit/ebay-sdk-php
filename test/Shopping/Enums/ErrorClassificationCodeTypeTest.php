@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Shopping\Enums;
 
 use DTS\eBaySDK\Shopping\Enums\ErrorClassificationCodeType;
 
-class ErrorClassificationCodeTypeTest extends \PHPUnit_Framework_TestCase
+class ErrorClassificationCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

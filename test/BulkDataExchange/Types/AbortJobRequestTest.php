@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\BulkDataExchange\Types;
 
 use DTS\eBaySDK\BulkDataExchange\Types\AbortJobRequest;
 
-class AbortJobRequestTest extends \PHPUnit_Framework_TestCase
+class AbortJobRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

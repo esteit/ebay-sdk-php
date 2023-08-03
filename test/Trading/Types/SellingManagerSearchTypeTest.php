@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\SellingManagerSearchType;
 
-class SellingManagerSearchTypeTest extends \PHPUnit_Framework_TestCase
+class SellingManagerSearchTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

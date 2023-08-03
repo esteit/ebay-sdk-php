@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Marketing\Types;
 
 use DTS\eBaySDK\Marketing\Types\UpdateCampaignIDentificationRestResponse;
 
-class UpdateCampaignIDentificationRestResponseTest extends \PHPUnit_Framework_TestCase
+class UpdateCampaignIDentificationRestResponseTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

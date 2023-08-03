@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\DisputeFilterCountType;
 
-class DisputeFilterCountTypeTest extends \PHPUnit_Framework_TestCase
+class DisputeFilterCountTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

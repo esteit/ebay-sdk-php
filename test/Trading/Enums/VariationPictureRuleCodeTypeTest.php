@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Enums;
 
 use DTS\eBaySDK\Trading\Enums\VariationPictureRuleCodeType;
 
-class VariationPictureRuleCodeTypeTest extends \PHPUnit_Framework_TestCase
+class VariationPictureRuleCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

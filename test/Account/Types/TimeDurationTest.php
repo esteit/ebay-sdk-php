@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Account\Types;
 
 use DTS\eBaySDK\Account\Types\TimeDuration;
 
-class TimeDurationTest extends \PHPUnit_Framework_TestCase
+class TimeDurationTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\PostOrder\Types;
 
 use DTS\eBaySDK\PostOrder\Types\EscalateReturnRestRequest;
 
-class EscalateReturnRestRequestTest extends \PHPUnit_Framework_TestCase
+class EscalateReturnRestRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Catalog\Types;
 
 use DTS\eBaySDK\Catalog\Types\ProductAspectValue;
 
-class ProductAspectValueTest extends \PHPUnit_Framework_TestCase
+class ProductAspectValueTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

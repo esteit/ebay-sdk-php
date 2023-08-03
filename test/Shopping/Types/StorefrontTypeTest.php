@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Shopping\Types;
 
 use DTS\eBaySDK\Shopping\Types\StorefrontType;
 
-class StorefrontTypeTest extends \PHPUnit_Framework_TestCase
+class StorefrontTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

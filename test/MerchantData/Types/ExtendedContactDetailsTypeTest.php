@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\MerchantData\Types;
 
 use DTS\eBaySDK\MerchantData\Types\ExtendedContactDetailsType;
 
-class ExtendedContactDetailsTypeTest extends \PHPUnit_Framework_TestCase
+class ExtendedContactDetailsTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

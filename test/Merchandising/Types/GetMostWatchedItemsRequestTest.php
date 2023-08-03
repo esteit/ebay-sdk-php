@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Merchandising\Types;
 
 use DTS\eBaySDK\Merchandising\Types\GetMostWatchedItemsRequest;
 
-class GetMostWatchedItemsRequestTest extends \PHPUnit_Framework_TestCase
+class GetMostWatchedItemsRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

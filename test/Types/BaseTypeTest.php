@@ -3,7 +3,7 @@ namespace DTS\eBaySDK\Types\Test;
 
 use DTS\eBaySDK\Types\BaseType;
 
-class BaseTypeTest extends \PHPUnit_Framework_TestCase
+class BaseTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\VeROReasonCodeDetailsType;
 
-class VeROReasonCodeDetailsTypeTest extends \PHPUnit_Framework_TestCase
+class VeROReasonCodeDetailsTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

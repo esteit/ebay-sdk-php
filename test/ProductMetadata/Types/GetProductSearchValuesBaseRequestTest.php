@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\ProductMetadata\Types;
 
 use DTS\eBaySDK\ProductMetadata\Types\GetProductSearchValuesBaseRequest;
 
-class GetProductSearchValuesBaseRequestTest extends \PHPUnit_Framework_TestCase
+class GetProductSearchValuesBaseRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Marketing\Types;
 
 use DTS\eBaySDK\Marketing\Types\UpdateBidRestRequest;
 
-class UpdateBidRestRequestTest extends \PHPUnit_Framework_TestCase
+class UpdateBidRestRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

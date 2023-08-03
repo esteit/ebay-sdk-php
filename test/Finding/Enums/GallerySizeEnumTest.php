@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Finding\Enums;
 
 use DTS\eBaySDK\Finding\Enums\GallerySizeEnum;
 
-class GallerySizeEnumTest extends \PHPUnit_Framework_TestCase
+class GallerySizeEnumTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

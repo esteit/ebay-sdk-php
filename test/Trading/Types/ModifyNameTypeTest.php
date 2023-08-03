@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\ModifyNameType;
 
-class ModifyNameTypeTest extends \PHPUnit_Framework_TestCase
+class ModifyNameTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

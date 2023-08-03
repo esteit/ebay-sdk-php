@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Finding\Types;
 
 use DTS\eBaySDK\Finding\Types\ConditionHistogramContainer;
 
-class ConditionHistogramContainerTest extends \PHPUnit_Framework_TestCase
+class ConditionHistogramContainerTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\ResolutionCaseManagement\Types;
 
 use DTS\eBaySDK\ResolutionCaseManagement\Types\ProvideReturnInfoRequest;
 
-class ProvideReturnInfoRequestTest extends \PHPUnit_Framework_TestCase
+class ProvideReturnInfoRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

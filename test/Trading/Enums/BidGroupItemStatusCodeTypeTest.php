@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Enums;
 
 use DTS\eBaySDK\Trading\Enums\BidGroupItemStatusCodeType;
 
-class BidGroupItemStatusCodeTypeTest extends \PHPUnit_Framework_TestCase
+class BidGroupItemStatusCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

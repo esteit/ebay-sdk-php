@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Merchandising\Types;
 
 use DTS\eBaySDK\Merchandising\Types\DiscountPriceInfo;
 
-class DiscountPriceInfoTest extends \PHPUnit_Framework_TestCase
+class DiscountPriceInfoTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

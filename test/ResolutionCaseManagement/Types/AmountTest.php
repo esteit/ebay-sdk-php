@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\ResolutionCaseManagement\Types;
 
 use DTS\eBaySDK\ResolutionCaseManagement\Types\Amount;
 
-class AmountTest extends \PHPUnit_Framework_TestCase
+class AmountTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\MerchantData\Enums;
 
 use DTS\eBaySDK\MerchantData\Enums\WarningLevelCodeType;
 
-class WarningLevelCodeTypeTest extends \PHPUnit_Framework_TestCase
+class WarningLevelCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

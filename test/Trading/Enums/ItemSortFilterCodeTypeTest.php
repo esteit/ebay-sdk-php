@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Enums;
 
 use DTS\eBaySDK\Trading\Enums\ItemSortFilterCodeType;
 
-class ItemSortFilterCodeTypeTest extends \PHPUnit_Framework_TestCase
+class ItemSortFilterCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

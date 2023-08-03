@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\ReturnManagement\Enums;
 
 use DTS\eBaySDK\ReturnManagement\Enums\ReturnUserRoleType;
 
-class ReturnUserRoleTypeTest extends \PHPUnit_Framework_TestCase
+class ReturnUserRoleTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\MaximumBuyerPolicyViolationsDetailsType;
 
-class MaximumBuyerPolicyViolationsDetailsTypeTest extends \PHPUnit_Framework_TestCase
+class MaximumBuyerPolicyViolationsDetailsTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\MerchantData\Enums;
 
 use DTS\eBaySDK\MerchantData\Enums\GalleryTypeCodeType;
 
-class GalleryTypeCodeTypeTest extends \PHPUnit_Framework_TestCase
+class GalleryTypeCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

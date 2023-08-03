@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Order\Types;
 
 use DTS\eBaySDK\Order\Types\Promotion;
 
-class PromotionTest extends \PHPUnit_Framework_TestCase
+class PromotionTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

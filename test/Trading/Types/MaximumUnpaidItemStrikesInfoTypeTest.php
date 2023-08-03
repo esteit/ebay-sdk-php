@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\MaximumUnpaidItemStrikesInfoType;
 
-class MaximumUnpaidItemStrikesInfoTypeTest extends \PHPUnit_Framework_TestCase
+class MaximumUnpaidItemStrikesInfoTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

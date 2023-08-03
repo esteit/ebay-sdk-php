@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\HalfFinding\Types;
 
 use DTS\eBaySDK\HalfFinding\Types\FindItemsResponse;
 
-class FindItemsResponseTest extends \PHPUnit_Framework_TestCase
+class FindItemsResponseTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

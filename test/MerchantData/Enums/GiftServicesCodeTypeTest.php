@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\MerchantData\Enums;
 
 use DTS\eBaySDK\MerchantData\Enums\GiftServicesCodeType;
 
-class GiftServicesCodeTypeTest extends \PHPUnit_Framework_TestCase
+class GiftServicesCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

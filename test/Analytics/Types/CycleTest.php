@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Analytics\Types;
 
 use DTS\eBaySDK\Analytics\Types\Cycle;
 
-class CycleTest extends \PHPUnit_Framework_TestCase
+class CycleTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

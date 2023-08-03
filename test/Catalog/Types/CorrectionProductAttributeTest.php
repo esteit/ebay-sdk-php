@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Catalog\Types;
 
 use DTS\eBaySDK\Catalog\Types\CorrectionProductAttribute;
 
-class CorrectionProductAttributeTest extends \PHPUnit_Framework_TestCase
+class CorrectionProductAttributeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

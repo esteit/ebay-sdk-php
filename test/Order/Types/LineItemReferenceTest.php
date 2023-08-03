@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Order\Types;
 
 use DTS\eBaySDK\Order\Types\LineItemReference;
 
-class LineItemReferenceTest extends \PHPUnit_Framework_TestCase
+class LineItemReferenceTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

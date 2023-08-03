@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Inventory\Types;
 
 use DTS\eBaySDK\Inventory\Types\ListingDetails;
 
-class ListingDetailsTest extends \PHPUnit_Framework_TestCase
+class ListingDetailsTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

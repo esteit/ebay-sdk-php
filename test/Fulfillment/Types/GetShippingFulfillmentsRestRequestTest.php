@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Fulfillment\Types;
 
 use DTS\eBaySDK\Fulfillment\Types\GetShippingFulfillmentsRestRequest;
 
-class GetShippingFulfillmentsRestRequestTest extends \PHPUnit_Framework_TestCase
+class GetShippingFulfillmentsRestRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

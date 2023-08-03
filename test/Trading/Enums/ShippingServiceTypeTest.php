@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Enums;
 
 use DTS\eBaySDK\Trading\Enums\ShippingServiceType;
 
-class ShippingServiceTypeTest extends \PHPUnit_Framework_TestCase
+class ShippingServiceTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

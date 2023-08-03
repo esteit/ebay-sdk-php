@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Browse\Enums;
 
 use DTS\eBaySDK\Browse\Enums\ReturnMethodEnum;
 
-class ReturnMethodEnumTest extends \PHPUnit_Framework_TestCase
+class ReturnMethodEnumTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

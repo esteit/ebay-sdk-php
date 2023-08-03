@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\PostOrder\Types;
 
 use DTS\eBaySDK\PostOrder\Types\ReturnCloseInfoType;
 
-class ReturnCloseInfoTypeTest extends \PHPUnit_Framework_TestCase
+class ReturnCloseInfoTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

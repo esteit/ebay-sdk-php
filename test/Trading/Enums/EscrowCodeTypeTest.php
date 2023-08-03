@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Enums;
 
 use DTS\eBaySDK\Trading\Enums\EscrowCodeType;
 
-class EscrowCodeTypeTest extends \PHPUnit_Framework_TestCase
+class EscrowCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

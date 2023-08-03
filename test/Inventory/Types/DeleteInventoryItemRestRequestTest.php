@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Inventory\Types;
 
 use DTS\eBaySDK\Inventory\Types\DeleteInventoryItemRestRequest;
 
-class DeleteInventoryItemRestRequestTest extends \PHPUnit_Framework_TestCase
+class DeleteInventoryItemRestRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

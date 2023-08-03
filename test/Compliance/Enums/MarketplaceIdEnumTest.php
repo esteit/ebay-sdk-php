@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Compliance\Enums;
 
 use DTS\eBaySDK\Compliance\Enums\MarketplaceIdEnum;
 
-class MarketplaceIdEnumTest extends \PHPUnit_Framework_TestCase
+class MarketplaceIdEnumTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

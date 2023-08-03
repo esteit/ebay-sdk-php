@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\GetSellerEventsRequestType;
 
-class GetSellerEventsRequestTypeTest extends \PHPUnit_Framework_TestCase
+class GetSellerEventsRequestTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

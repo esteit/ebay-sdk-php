@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Enums;
 
 use DTS\eBaySDK\Trading\Enums\DiscountCodeType;
 
-class DiscountCodeTypeTest extends \PHPUnit_Framework_TestCase
+class DiscountCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

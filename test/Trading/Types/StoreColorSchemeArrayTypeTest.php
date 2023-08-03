@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\StoreColorSchemeArrayType;
 
-class StoreColorSchemeArrayTypeTest extends \PHPUnit_Framework_TestCase
+class StoreColorSchemeArrayTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

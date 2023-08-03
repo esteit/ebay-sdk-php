@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Account\Enums;
 
 use DTS\eBaySDK\Account\Enums\PaymentInstrumentBrandEnum;
 
-class PaymentInstrumentBrandEnumTest extends \PHPUnit_Framework_TestCase
+class PaymentInstrumentBrandEnumTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

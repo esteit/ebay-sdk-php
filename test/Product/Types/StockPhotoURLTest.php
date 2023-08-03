@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Product\Types;
 
 use DTS\eBaySDK\Product\Types\StockPhotoURL;
 
-class StockPhotoURLTest extends \PHPUnit_Framework_TestCase
+class StockPhotoURLTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

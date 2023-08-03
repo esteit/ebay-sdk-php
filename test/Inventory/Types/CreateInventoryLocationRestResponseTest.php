@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Inventory\Types;
 
 use DTS\eBaySDK\Inventory\Types\CreateInventoryLocationRestResponse;
 
-class CreateInventoryLocationRestResponseTest extends \PHPUnit_Framework_TestCase
+class CreateInventoryLocationRestResponseTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Catalog\Types;
 
 use DTS\eBaySDK\Catalog\Types\ProductAspectConstraint;
 
-class ProductAspectConstraintTest extends \PHPUnit_Framework_TestCase
+class ProductAspectConstraintTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

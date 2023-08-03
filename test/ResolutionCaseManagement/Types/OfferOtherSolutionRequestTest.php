@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\ResolutionCaseManagement\Types;
 
 use DTS\eBaySDK\ResolutionCaseManagement\Types\OfferOtherSolutionRequest;
 
-class OfferOtherSolutionRequestTest extends \PHPUnit_Framework_TestCase
+class OfferOtherSolutionRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

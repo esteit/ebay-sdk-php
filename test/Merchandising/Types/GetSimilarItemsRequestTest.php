@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Merchandising\Types;
 
 use DTS\eBaySDK\Merchandising\Types\GetSimilarItemsRequest;
 
-class GetSimilarItemsRequestTest extends \PHPUnit_Framework_TestCase
+class GetSimilarItemsRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

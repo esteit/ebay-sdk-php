@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Enums;
 
 use DTS\eBaySDK\Trading\Enums\AccountEntrySortTypeCodeType;
 
-class AccountEntrySortTypeCodeTypeTest extends \PHPUnit_Framework_TestCase
+class AccountEntrySortTypeCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

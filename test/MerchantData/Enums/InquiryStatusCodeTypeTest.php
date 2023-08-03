@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\MerchantData\Enums;
 
 use DTS\eBaySDK\MerchantData\Enums\InquiryStatusCodeType;
 
-class InquiryStatusCodeTypeTest extends \PHPUnit_Framework_TestCase
+class InquiryStatusCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

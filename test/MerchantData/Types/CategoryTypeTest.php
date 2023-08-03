@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\MerchantData\Types;
 
 use DTS\eBaySDK\MerchantData\Types\CategoryType;
 
-class CategoryTypeTest extends \PHPUnit_Framework_TestCase
+class CategoryTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

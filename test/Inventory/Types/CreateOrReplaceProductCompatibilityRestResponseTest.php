@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Inventory\Types;
 
 use DTS\eBaySDK\Inventory\Types\CreateOrReplaceProductCompatibilityRestResponse;
 
-class CreateOrReplaceProductCompatibilityRestResponseTest extends \PHPUnit_Framework_TestCase
+class CreateOrReplaceProductCompatibilityRestResponseTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

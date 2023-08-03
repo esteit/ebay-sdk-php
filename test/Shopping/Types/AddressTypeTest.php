@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Shopping\Types;
 
 use DTS\eBaySDK\Shopping\Types\AddressType;
 
-class AddressTypeTest extends \PHPUnit_Framework_TestCase
+class AddressTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

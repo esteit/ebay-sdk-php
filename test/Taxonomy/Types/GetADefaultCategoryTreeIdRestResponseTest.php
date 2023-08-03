@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Taxonomy\Types;
 
 use DTS\eBaySDK\Taxonomy\Types\GetADefaultCategoryTreeIdRestResponse;
 
-class GetADefaultCategoryTreeIdRestResponseTest extends \PHPUnit_Framework_TestCase
+class GetADefaultCategoryTreeIdRestResponseTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

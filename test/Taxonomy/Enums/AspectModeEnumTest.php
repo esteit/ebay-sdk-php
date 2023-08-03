@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Taxonomy\Enums;
 
 use DTS\eBaySDK\Taxonomy\Enums\AspectModeEnum;
 
-class AspectModeEnumTest extends \PHPUnit_Framework_TestCase
+class AspectModeEnumTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

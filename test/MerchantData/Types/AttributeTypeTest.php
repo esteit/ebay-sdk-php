@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\MerchantData\Types;
 
 use DTS\eBaySDK\MerchantData\Types\AttributeType;
 
-class AttributeTypeTest extends \PHPUnit_Framework_TestCase
+class AttributeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

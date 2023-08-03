@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\RelatedItemsManagement\Types;
 
 use DTS\eBaySDK\RelatedItemsManagement\Types\ExtensionType;
 
-class ExtensionTypeTest extends \PHPUnit_Framework_TestCase
+class ExtensionTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\BusinessPoliciesManagement\Types;
 
 use DTS\eBaySDK\BusinessPoliciesManagement\Types\ShippingPolicyInfoService;
 
-class ShippingPolicyInfoServiceTest extends \PHPUnit_Framework_TestCase
+class ShippingPolicyInfoServiceTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

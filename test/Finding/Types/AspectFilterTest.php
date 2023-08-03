@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Finding\Types;
 
 use DTS\eBaySDK\Finding\Types\AspectFilter;
 
-class AspectFilterTest extends \PHPUnit_Framework_TestCase
+class AspectFilterTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

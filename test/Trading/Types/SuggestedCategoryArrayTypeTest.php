@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\SuggestedCategoryArrayType;
 
-class SuggestedCategoryArrayTypeTest extends \PHPUnit_Framework_TestCase
+class SuggestedCategoryArrayTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\RelatedItemsManagement\Enums;
 
 use DTS\eBaySDK\RelatedItemsManagement\Enums\BundleStatusEnum;
 
-class BundleStatusEnumTest extends \PHPUnit_Framework_TestCase
+class BundleStatusEnumTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

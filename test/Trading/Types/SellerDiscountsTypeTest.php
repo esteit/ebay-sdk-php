@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\SellerDiscountsType;
 
-class SellerDiscountsTypeTest extends \PHPUnit_Framework_TestCase
+class SellerDiscountsTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

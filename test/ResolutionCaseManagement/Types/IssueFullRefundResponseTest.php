@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\ResolutionCaseManagement\Types;
 
 use DTS\eBaySDK\ResolutionCaseManagement\Types\IssueFullRefundResponse;
 
-class IssueFullRefundResponseTest extends \PHPUnit_Framework_TestCase
+class IssueFullRefundResponseTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

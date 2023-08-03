@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Enums;
 
 use DTS\eBaySDK\Trading\Enums\HandlingNameCodeType;
 
-class HandlingNameCodeTypeTest extends \PHPUnit_Framework_TestCase
+class HandlingNameCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

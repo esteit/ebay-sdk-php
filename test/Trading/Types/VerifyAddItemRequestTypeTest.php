@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\VerifyAddItemRequestType;
 
-class VerifyAddItemRequestTypeTest extends \PHPUnit_Framework_TestCase
+class VerifyAddItemRequestTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

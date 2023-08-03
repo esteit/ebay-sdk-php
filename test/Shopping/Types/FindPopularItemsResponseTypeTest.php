@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Shopping\Types;
 
 use DTS\eBaySDK\Shopping\Types\FindPopularItemsResponseType;
 
-class FindPopularItemsResponseTypeTest extends \PHPUnit_Framework_TestCase
+class FindPopularItemsResponseTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

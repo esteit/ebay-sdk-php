@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\PostOrder\Types;
 
 use DTS\eBaySDK\PostOrder\Types\PaginationOutput;
 
-class PaginationOutputTest extends \PHPUnit_Framework_TestCase
+class PaginationOutputTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

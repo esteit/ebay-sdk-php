@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\ReturnManagement\Types;
 
 use DTS\eBaySDK\ReturnManagement\Types\SetItemAsReceivedRequest;
 
-class SetItemAsReceivedRequestTest extends \PHPUnit_Framework_TestCase
+class SetItemAsReceivedRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

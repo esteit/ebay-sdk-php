@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Finding\Enums;
 
 use DTS\eBaySDK\Finding\Enums\ItemFilterType;
 
-class ItemFilterTypeTest extends \PHPUnit_Framework_TestCase
+class ItemFilterTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

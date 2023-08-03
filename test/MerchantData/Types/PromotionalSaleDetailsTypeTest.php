@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\MerchantData\Types;
 
 use DTS\eBaySDK\MerchantData\Types\PromotionalSaleDetailsType;
 
-class PromotionalSaleDetailsTypeTest extends \PHPUnit_Framework_TestCase
+class PromotionalSaleDetailsTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

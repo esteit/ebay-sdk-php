@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Shopping\Types;
 
 use DTS\eBaySDK\Shopping\Types\SimpleUserType;
 
-class SimpleUserTypeTest extends \PHPUnit_Framework_TestCase
+class SimpleUserTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

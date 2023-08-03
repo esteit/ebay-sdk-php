@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\StoreOwnerExtendedListingDurationsEnabledDefinitionType;
 
-class StoreOwnerExtendedListingDurationsEnabledDefinitionTypeTest extends \PHPUnit_Framework_TestCase
+class StoreOwnerExtendedListingDurationsEnabledDefinitionTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Enums;
 
 use DTS\eBaySDK\Trading\Enums\CheckoutStatusCodeType;
 
-class CheckoutStatusCodeTypeTest extends \PHPUnit_Framework_TestCase
+class CheckoutStatusCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Enums;
 
 use DTS\eBaySDK\Trading\Enums\FeatureIDCodeType;
 
-class FeatureIDCodeTypeTest extends \PHPUnit_Framework_TestCase
+class FeatureIDCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\ProductMetadata\Types;
 
 use DTS\eBaySDK\ProductMetadata\Types\ProductMetadataBulkRequest;
 
-class ProductMetadataBulkRequestTest extends \PHPUnit_Framework_TestCase
+class ProductMetadataBulkRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

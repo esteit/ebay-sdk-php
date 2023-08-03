@@ -5,7 +5,7 @@ use DTS\eBaySDK\Test\Mocks\Service;
 use DTS\eBaySDK\Test\Mocks\ComplexClass;
 use DTS\eBaySDK\Test\Mocks\HttpHandler;
 
-class AttachmentTest extends \PHPUnit_Framework_TestCase
+class AttachmentTest extends \PHPUnit\Framework\TestCase
 {
     private $httpHandler;
     private $service;

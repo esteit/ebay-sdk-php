@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Account\Enums;
 
 use DTS\eBaySDK\Account\Enums\CountryCodeEnum;
 
-class CountryCodeEnumTest extends \PHPUnit_Framework_TestCase
+class CountryCodeEnumTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

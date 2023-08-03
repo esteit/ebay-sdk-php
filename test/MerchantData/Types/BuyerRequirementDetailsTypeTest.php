@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\MerchantData\Types;
 
 use DTS\eBaySDK\MerchantData\Types\BuyerRequirementDetailsType;
 
-class BuyerRequirementDetailsTypeTest extends \PHPUnit_Framework_TestCase
+class BuyerRequirementDetailsTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

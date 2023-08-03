@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Taxonomy\Types;
 
 use DTS\eBaySDK\Taxonomy\Types\GetSuggestedCategoriesRestRequest;
 
-class GetSuggestedCategoriesRestRequestTest extends \PHPUnit_Framework_TestCase
+class GetSuggestedCategoriesRestRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

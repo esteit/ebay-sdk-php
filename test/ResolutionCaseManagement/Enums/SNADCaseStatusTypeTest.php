@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\ResolutionCaseManagement\Enums;
 
 use DTS\eBaySDK\ResolutionCaseManagement\Enums\SNADCaseStatusType;
 
-class SNADCaseStatusTypeTest extends \PHPUnit_Framework_TestCase
+class SNADCaseStatusTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

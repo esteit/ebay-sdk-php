@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\EBayMotorsProStreetCountDefinitionType;
 
-class EBayMotorsProStreetCountDefinitionTypeTest extends \PHPUnit_Framework_TestCase
+class EBayMotorsProStreetCountDefinitionTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

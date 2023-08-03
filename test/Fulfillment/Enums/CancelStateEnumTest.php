@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Fulfillment\Enums;
 
 use DTS\eBaySDK\Fulfillment\Enums\CancelStateEnum;
 
-class CancelStateEnumTest extends \PHPUnit_Framework_TestCase
+class CancelStateEnumTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

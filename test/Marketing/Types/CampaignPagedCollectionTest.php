@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Marketing\Types;
 
 use DTS\eBaySDK\Marketing\Types\CampaignPagedCollection;
 
-class CampaignPagedCollectionTest extends \PHPUnit_Framework_TestCase
+class CampaignPagedCollectionTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

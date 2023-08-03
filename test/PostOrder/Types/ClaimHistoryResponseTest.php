@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\PostOrder\Types;
 
 use DTS\eBaySDK\PostOrder\Types\ClaimHistoryResponse;
 
-class ClaimHistoryResponseTest extends \PHPUnit_Framework_TestCase
+class ClaimHistoryResponseTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

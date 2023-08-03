@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Finding\Types;
 
 use DTS\eBaySDK\Finding\Types\PaginationOutput;
 
-class PaginationOutputTest extends \PHPUnit_Framework_TestCase
+class PaginationOutputTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

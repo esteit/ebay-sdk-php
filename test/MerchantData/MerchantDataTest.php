@@ -3,7 +3,7 @@ namespace DTS\eBaySDK\Test\MerchantData;
 
 use DTS\eBaySDK\MerchantData\MerchantData;
 
-class MerchantDataTest extends \PHPUnit_Framework_TestCase
+class MerchantDataTest extends \PHPUnit\Framework\TestCase
 {
     private $merchantData;
 

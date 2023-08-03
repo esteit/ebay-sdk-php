@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\ResolutionCaseManagement\Types;
 
 use DTS\eBaySDK\ResolutionCaseManagement\Types\EBPCaseResponseHistoryType;
 
-class EBPCaseResponseHistoryTypeTest extends \PHPUnit_Framework_TestCase
+class EBPCaseResponseHistoryTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

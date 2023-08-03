@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Shopping\Types;
 
 use DTS\eBaySDK\Shopping\Types\FindHalfProductsRequestType;
 
-class FindHalfProductsRequestTypeTest extends \PHPUnit_Framework_TestCase
+class FindHalfProductsRequestTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

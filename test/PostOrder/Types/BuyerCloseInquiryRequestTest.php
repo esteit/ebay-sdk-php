@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\PostOrder\Types;
 
 use DTS\eBaySDK\PostOrder\Types\BuyerCloseInquiryRequest;
 
-class BuyerCloseInquiryRequestTest extends \PHPUnit_Framework_TestCase
+class BuyerCloseInquiryRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Enums;
 
 use DTS\eBaySDK\Trading\Enums\UPSRateOptionCodeType;
 
-class UPSRateOptionCodeTypeTest extends \PHPUnit_Framework_TestCase
+class UPSRateOptionCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\BidderDetailArrayType;
 
-class BidderDetailArrayTypeTest extends \PHPUnit_Framework_TestCase
+class BidderDetailArrayTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

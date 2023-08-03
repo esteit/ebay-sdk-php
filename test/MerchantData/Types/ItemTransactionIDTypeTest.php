@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\MerchantData\Types;
 
 use DTS\eBaySDK\MerchantData\Types\ItemTransactionIDType;
 
-class ItemTransactionIDTypeTest extends \PHPUnit_Framework_TestCase
+class ItemTransactionIDTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\PostOrder\Types;
 
 use DTS\eBaySDK\PostOrder\Types\ScanDetailType;
 
-class ScanDetailTypeTest extends \PHPUnit_Framework_TestCase
+class ScanDetailTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

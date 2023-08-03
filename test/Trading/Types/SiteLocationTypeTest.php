@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\SiteLocationType;
 
-class SiteLocationTypeTest extends \PHPUnit_Framework_TestCase
+class SiteLocationTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

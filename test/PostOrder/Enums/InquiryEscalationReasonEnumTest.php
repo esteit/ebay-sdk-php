@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\PostOrder\Enums;
 
 use DTS\eBaySDK\PostOrder\Enums\InquiryEscalationReasonEnum;
 
-class InquiryEscalationReasonEnumTest extends \PHPUnit_Framework_TestCase
+class InquiryEscalationReasonEnumTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

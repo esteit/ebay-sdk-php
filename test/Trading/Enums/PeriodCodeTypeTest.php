@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Enums;
 
 use DTS\eBaySDK\Trading\Enums\PeriodCodeType;
 
-class PeriodCodeTypeTest extends \PHPUnit_Framework_TestCase
+class PeriodCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

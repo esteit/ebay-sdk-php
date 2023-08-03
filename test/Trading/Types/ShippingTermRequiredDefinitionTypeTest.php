@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\ShippingTermRequiredDefinitionType;
 
-class ShippingTermRequiredDefinitionTypeTest extends \PHPUnit_Framework_TestCase
+class ShippingTermRequiredDefinitionTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

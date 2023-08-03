@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Compliance\Types;
 
 use DTS\eBaySDK\Compliance\Types\ComplianceDetail;
 
-class ComplianceDetailTest extends \PHPUnit_Framework_TestCase
+class ComplianceDetailTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

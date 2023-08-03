@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\BusinessPoliciesManagement\Types;
 
 use DTS\eBaySDK\BusinessPoliciesManagement\Types\RemoveSellerProfilesRequest;
 
-class RemoveSellerProfilesRequestTest extends \PHPUnit_Framework_TestCase
+class RemoveSellerProfilesRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

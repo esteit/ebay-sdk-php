@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Merchandising\Enums;
 
 use DTS\eBaySDK\Merchandising\Enums\ErrorSeverity;
 
-class ErrorSeverityTest extends \PHPUnit_Framework_TestCase
+class ErrorSeverityTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

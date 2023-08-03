@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Marketing\Types;
 
 use DTS\eBaySDK\Marketing\Types\PauseAPromotionRestRequest;
 
-class PauseAPromotionRestRequestTest extends \PHPUnit_Framework_TestCase
+class PauseAPromotionRestRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

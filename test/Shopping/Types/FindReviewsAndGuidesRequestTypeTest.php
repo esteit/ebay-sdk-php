@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Shopping\Types;
 
 use DTS\eBaySDK\Shopping\Types\FindReviewsAndGuidesRequestType;
 
-class FindReviewsAndGuidesRequestTypeTest extends \PHPUnit_Framework_TestCase
+class FindReviewsAndGuidesRequestTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

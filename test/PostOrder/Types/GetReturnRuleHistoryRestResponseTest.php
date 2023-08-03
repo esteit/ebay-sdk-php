@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\PostOrder\Types;
 
 use DTS\eBaySDK\PostOrder\Types\GetReturnRuleHistoryRestResponse;
 
-class GetReturnRuleHistoryRestResponseTest extends \PHPUnit_Framework_TestCase
+class GetReturnRuleHistoryRestResponseTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

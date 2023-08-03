@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\HalfFinding\Enums;
 
 use DTS\eBaySDK\HalfFinding\Enums\ProductIDCodeType;
 
-class ProductIDCodeTypeTest extends \PHPUnit_Framework_TestCase
+class ProductIDCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

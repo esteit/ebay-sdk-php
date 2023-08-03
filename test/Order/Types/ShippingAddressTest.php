@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Order\Types;
 
 use DTS\eBaySDK\Order\Types\ShippingAddress;
 
-class ShippingAddressTest extends \PHPUnit_Framework_TestCase
+class ShippingAddressTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

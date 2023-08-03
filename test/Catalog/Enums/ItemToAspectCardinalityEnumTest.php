@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Catalog\Enums;
 
 use DTS\eBaySDK\Catalog\Enums\ItemToAspectCardinalityEnum;
 
-class ItemToAspectCardinalityEnumTest extends \PHPUnit_Framework_TestCase
+class ItemToAspectCardinalityEnumTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

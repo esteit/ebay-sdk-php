@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Inventory\Types;
 
 use DTS\eBaySDK\Inventory\Types\GetProductCompatibilityRestRequest;
 
-class GetProductCompatibilityRestRequestTest extends \PHPUnit_Framework_TestCase
+class GetProductCompatibilityRestRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\CheckoutOrderDetailType;
 
-class CheckoutOrderDetailTypeTest extends \PHPUnit_Framework_TestCase
+class CheckoutOrderDetailTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

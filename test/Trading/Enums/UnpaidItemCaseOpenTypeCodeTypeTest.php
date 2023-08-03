@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Enums;
 
 use DTS\eBaySDK\Trading\Enums\UnpaidItemCaseOpenTypeCodeType;
 
-class UnpaidItemCaseOpenTypeCodeTypeTest extends \PHPUnit_Framework_TestCase
+class UnpaidItemCaseOpenTypeCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Enums;
 
 use DTS\eBaySDK\Trading\Enums\ShippingRegionCodeType;
 
-class ShippingRegionCodeTypeTest extends \PHPUnit_Framework_TestCase
+class ShippingRegionCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

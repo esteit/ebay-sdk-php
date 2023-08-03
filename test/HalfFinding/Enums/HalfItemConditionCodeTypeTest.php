@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\HalfFinding\Enums;
 
 use DTS\eBaySDK\HalfFinding\Enums\HalfItemConditionCodeType;
 
-class HalfItemConditionCodeTypeTest extends \PHPUnit_Framework_TestCase
+class HalfItemConditionCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

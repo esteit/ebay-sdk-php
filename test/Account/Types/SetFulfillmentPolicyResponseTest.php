@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Account\Types;
 
 use DTS\eBaySDK\Account\Types\SetFulfillmentPolicyResponse;
 
-class SetFulfillmentPolicyResponseTest extends \PHPUnit_Framework_TestCase
+class SetFulfillmentPolicyResponseTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

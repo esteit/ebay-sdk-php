@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Finding\Types;
 
 use DTS\eBaySDK\Finding\Types\SellerInfo;
 
-class SellerInfoTest extends \PHPUnit_Framework_TestCase
+class SellerInfoTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

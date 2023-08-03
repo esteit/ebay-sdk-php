@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\ReturnManagement\Types;
 
 use DTS\eBaySDK\ReturnManagement\Types\ReturnRequestType;
 
-class ReturnRequestTypeTest extends \PHPUnit_Framework_TestCase
+class ReturnRequestTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

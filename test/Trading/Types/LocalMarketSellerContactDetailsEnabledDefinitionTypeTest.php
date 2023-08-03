@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\LocalMarketSellerContactDetailsEnabledDefinitionType;
 
-class LocalMarketSellerContactDetailsEnabledDefinitionTypeTest extends \PHPUnit_Framework_TestCase
+class LocalMarketSellerContactDetailsEnabledDefinitionTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

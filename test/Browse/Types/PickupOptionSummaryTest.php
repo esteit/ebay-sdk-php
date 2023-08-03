@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Browse\Types;
 
 use DTS\eBaySDK\Browse\Types\PickupOptionSummary;
 
-class PickupOptionSummaryTest extends \PHPUnit_Framework_TestCase
+class PickupOptionSummaryTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

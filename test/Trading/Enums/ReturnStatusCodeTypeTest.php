@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Enums;
 
 use DTS\eBaySDK\Trading\Enums\ReturnStatusCodeType;
 
-class ReturnStatusCodeTypeTest extends \PHPUnit_Framework_TestCase
+class ReturnStatusCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

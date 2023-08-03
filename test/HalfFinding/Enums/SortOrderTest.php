@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\HalfFinding\Enums;
 
 use DTS\eBaySDK\HalfFinding\Enums\SortOrder;
 
-class SortOrderTest extends \PHPUnit_Framework_TestCase
+class SortOrderTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\FileTransfer\Types;
 
 use DTS\eBaySDK\FileTransfer\Types\ErrorMessage;
 
-class ErrorMessageTest extends \PHPUnit_Framework_TestCase
+class ErrorMessageTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

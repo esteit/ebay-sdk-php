@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Shopping\Enums;
 
 use DTS\eBaySDK\Shopping\Enums\PricingTreatmentCodeType;
 
-class PricingTreatmentCodeTypeTest extends \PHPUnit_Framework_TestCase
+class PricingTreatmentCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

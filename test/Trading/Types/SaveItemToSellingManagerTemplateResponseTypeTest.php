@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\SaveItemToSellingManagerTemplateResponseType;
 
-class SaveItemToSellingManagerTemplateResponseTypeTest extends \PHPUnit_Framework_TestCase
+class SaveItemToSellingManagerTemplateResponseTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

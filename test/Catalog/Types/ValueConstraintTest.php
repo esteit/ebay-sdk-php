@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Catalog\Types;
 
 use DTS\eBaySDK\Catalog\Types\ValueConstraint;
 
-class ValueConstraintTest extends \PHPUnit_Framework_TestCase
+class ValueConstraintTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

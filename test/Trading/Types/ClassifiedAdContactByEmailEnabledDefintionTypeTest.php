@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\ClassifiedAdContactByEmailEnabledDefintionType;
 
-class ClassifiedAdContactByEmailEnabledDefintionTypeTest extends \PHPUnit_Framework_TestCase
+class ClassifiedAdContactByEmailEnabledDefintionTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

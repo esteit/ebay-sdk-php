@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Enums;
 
 use DTS\eBaySDK\Trading\Enums\StoreFontSizeCodeType;
 
-class StoreFontSizeCodeTypeTest extends \PHPUnit_Framework_TestCase
+class StoreFontSizeCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

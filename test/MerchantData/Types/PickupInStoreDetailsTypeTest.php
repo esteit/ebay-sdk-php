@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\MerchantData\Types;
 
 use DTS\eBaySDK\MerchantData\Types\PickupInStoreDetailsType;
 
-class PickupInStoreDetailsTypeTest extends \PHPUnit_Framework_TestCase
+class PickupInStoreDetailsTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

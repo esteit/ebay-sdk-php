@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\PostOrder\Types;
 
 use DTS\eBaySDK\PostOrder\Types\ShipmentType;
 
-class ShipmentTypeTest extends \PHPUnit_Framework_TestCase
+class ShipmentTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\BulkDataExchange\Types;
 
 use DTS\eBaySDK\BulkDataExchange\Types\DailyRecurrence;
 
-class DailyRecurrenceTest extends \PHPUnit_Framework_TestCase
+class DailyRecurrenceTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

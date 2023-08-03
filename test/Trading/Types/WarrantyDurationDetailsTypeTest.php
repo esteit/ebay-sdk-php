@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\WarrantyDurationDetailsType;
 
-class WarrantyDurationDetailsTypeTest extends \PHPUnit_Framework_TestCase
+class WarrantyDurationDetailsTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

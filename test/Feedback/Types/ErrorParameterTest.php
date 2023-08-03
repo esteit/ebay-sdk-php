@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Feedback\Types;
 
 use DTS\eBaySDK\Feedback\Types\ErrorParameter;
 
-class ErrorParameterTest extends \PHPUnit_Framework_TestCase
+class ErrorParameterTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

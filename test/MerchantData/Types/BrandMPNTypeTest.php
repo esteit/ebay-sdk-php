@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\MerchantData\Types;
 
 use DTS\eBaySDK\MerchantData\Types\BrandMPNType;
 
-class BrandMPNTypeTest extends \PHPUnit_Framework_TestCase
+class BrandMPNTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

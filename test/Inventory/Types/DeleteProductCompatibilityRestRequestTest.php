@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Inventory\Types;
 
 use DTS\eBaySDK\Inventory\Types\DeleteProductCompatibilityRestRequest;
 
-class DeleteProductCompatibilityRestRequestTest extends \PHPUnit_Framework_TestCase
+class DeleteProductCompatibilityRestRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

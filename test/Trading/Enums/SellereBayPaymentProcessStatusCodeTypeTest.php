@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Enums;
 
 use DTS\eBaySDK\Trading\Enums\SellereBayPaymentProcessStatusCodeType;
 
-class SellereBayPaymentProcessStatusCodeTypeTest extends \PHPUnit_Framework_TestCase
+class SellereBayPaymentProcessStatusCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

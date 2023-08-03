@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\FeatureEligibilityType;
 
-class FeatureEligibilityTypeTest extends \PHPUnit_Framework_TestCase
+class FeatureEligibilityTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

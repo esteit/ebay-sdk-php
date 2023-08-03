@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\ReturnManagement\Types;
 
 use DTS\eBaySDK\ReturnManagement\Types\NotificationEventType;
 
-class NotificationEventTypeTest extends \PHPUnit_Framework_TestCase
+class NotificationEventTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

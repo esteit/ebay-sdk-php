@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Account\Types;
 
 use DTS\eBaySDK\Account\Types\TransactionSnapshot;
 
-class TransactionSnapshotTest extends \PHPUnit_Framework_TestCase
+class TransactionSnapshotTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

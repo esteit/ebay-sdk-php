@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\PostOrder\Enums;
 
 use DTS\eBaySDK\PostOrder\Enums\ShippingCarrierEnum;
 
-class ShippingCarrierEnumTest extends \PHPUnit_Framework_TestCase
+class ShippingCarrierEnumTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

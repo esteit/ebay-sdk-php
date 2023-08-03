@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Marketing\Types;
 
 use DTS\eBaySDK\Marketing\Types\GetAdsRestRequest;
 
-class GetAdsRestRequestTest extends \PHPUnit_Framework_TestCase
+class GetAdsRestRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

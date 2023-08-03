@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\ReviseQuantityAllowedDefinitionType;
 
-class ReviseQuantityAllowedDefinitionTypeTest extends \PHPUnit_Framework_TestCase
+class ReviseQuantityAllowedDefinitionTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

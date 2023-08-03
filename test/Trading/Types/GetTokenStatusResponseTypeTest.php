@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\GetTokenStatusResponseType;
 
-class GetTokenStatusResponseTypeTest extends \PHPUnit_Framework_TestCase
+class GetTokenStatusResponseTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

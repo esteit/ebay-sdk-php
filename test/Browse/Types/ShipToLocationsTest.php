@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Browse\Types;
 
 use DTS\eBaySDK\Browse\Types\ShipToLocations;
 
-class ShipToLocationsTest extends \PHPUnit_Framework_TestCase
+class ShipToLocationsTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

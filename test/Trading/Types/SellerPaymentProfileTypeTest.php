@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\SellerPaymentProfileType;
 
-class SellerPaymentProfileTypeTest extends \PHPUnit_Framework_TestCase
+class SellerPaymentProfileTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

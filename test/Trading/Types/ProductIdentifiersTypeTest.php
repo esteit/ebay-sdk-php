@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\ProductIdentifiersType;
 
-class ProductIdentifiersTypeTest extends \PHPUnit_Framework_TestCase
+class ProductIdentifiersTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

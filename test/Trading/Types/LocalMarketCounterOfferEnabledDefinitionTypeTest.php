@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\LocalMarketCounterOfferEnabledDefinitionType;
 
-class LocalMarketCounterOfferEnabledDefinitionTypeTest extends \PHPUnit_Framework_TestCase
+class LocalMarketCounterOfferEnabledDefinitionTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

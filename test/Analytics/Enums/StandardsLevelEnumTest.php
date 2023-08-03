@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Analytics\Enums;
 
 use DTS\eBaySDK\Analytics\Enums\StandardsLevelEnum;
 
-class StandardsLevelEnumTest extends \PHPUnit_Framework_TestCase
+class StandardsLevelEnumTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

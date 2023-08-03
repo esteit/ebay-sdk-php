@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\MerchantData\Enums;
 
 use DTS\eBaySDK\MerchantData\Enums\ValueTypeCodeType;
 
-class ValueTypeCodeTypeTest extends \PHPUnit_Framework_TestCase
+class ValueTypeCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

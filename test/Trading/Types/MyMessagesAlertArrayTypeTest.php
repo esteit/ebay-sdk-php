@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\MyMessagesAlertArrayType;
 
-class MyMessagesAlertArrayTypeTest extends \PHPUnit_Framework_TestCase
+class MyMessagesAlertArrayTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

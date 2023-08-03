@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Browse\Types;
 
 use DTS\eBaySDK\Browse\Types\RatingHistogram;
 
-class RatingHistogramTest extends \PHPUnit_Framework_TestCase
+class RatingHistogramTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

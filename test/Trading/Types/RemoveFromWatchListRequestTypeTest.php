@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\RemoveFromWatchListRequestType;
 
-class RemoveFromWatchListRequestTypeTest extends \PHPUnit_Framework_TestCase
+class RemoveFromWatchListRequestTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

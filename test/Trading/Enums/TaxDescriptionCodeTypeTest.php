@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Enums;
 
 use DTS\eBaySDK\Trading\Enums\TaxDescriptionCodeType;
 
-class TaxDescriptionCodeTypeTest extends \PHPUnit_Framework_TestCase
+class TaxDescriptionCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

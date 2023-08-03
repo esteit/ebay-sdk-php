@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Enums;
 
 use DTS\eBaySDK\Trading\Enums\DeliveryStatusEmailCodeType;
 
-class DeliveryStatusEmailCodeTypeTest extends \PHPUnit_Framework_TestCase
+class DeliveryStatusEmailCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

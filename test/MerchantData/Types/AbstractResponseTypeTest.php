@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\MerchantData\Types;
 
 use DTS\eBaySDK\MerchantData\Types\AbstractResponseType;
 
-class AbstractResponseTypeTest extends \PHPUnit_Framework_TestCase
+class AbstractResponseTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Finding\Types;
 
 use DTS\eBaySDK\Finding\Types\FindItemsByProductResponse;
 
-class FindItemsByProductResponseTest extends \PHPUnit_Framework_TestCase
+class FindItemsByProductResponseTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

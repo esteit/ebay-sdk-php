@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\MerchantData\Enums;
 
 use DTS\eBaySDK\MerchantData\Enums\PaymentHoldReasonCodeType;
 
-class PaymentHoldReasonCodeTypeTest extends \PHPUnit_Framework_TestCase
+class PaymentHoldReasonCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

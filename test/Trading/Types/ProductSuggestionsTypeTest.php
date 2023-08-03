@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\ProductSuggestionsType;
 
-class ProductSuggestionsTypeTest extends \PHPUnit_Framework_TestCase
+class ProductSuggestionsTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

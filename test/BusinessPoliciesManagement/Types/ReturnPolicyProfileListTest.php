@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\BusinessPoliciesManagement\Types;
 
 use DTS\eBaySDK\BusinessPoliciesManagement\Types\ReturnPolicyProfileList;
 
-class ReturnPolicyProfileListTest extends \PHPUnit_Framework_TestCase
+class ReturnPolicyProfileListTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

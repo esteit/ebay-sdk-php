@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\AddMemberMessageRTQRequestType;
 
-class AddMemberMessageRTQRequestTypeTest extends \PHPUnit_Framework_TestCase
+class AddMemberMessageRTQRequestTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

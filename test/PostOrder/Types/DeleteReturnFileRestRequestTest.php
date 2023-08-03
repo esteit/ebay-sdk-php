@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\PostOrder\Types;
 
 use DTS\eBaySDK\PostOrder\Types\DeleteReturnFileRestRequest;
 
-class DeleteReturnFileRestRequestTest extends \PHPUnit_Framework_TestCase
+class DeleteReturnFileRestRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

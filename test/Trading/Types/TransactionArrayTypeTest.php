@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\TransactionArrayType;
 
-class TransactionArrayTypeTest extends \PHPUnit_Framework_TestCase
+class TransactionArrayTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

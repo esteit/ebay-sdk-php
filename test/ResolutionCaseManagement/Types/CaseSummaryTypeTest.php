@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\ResolutionCaseManagement\Types;
 
 use DTS\eBaySDK\ResolutionCaseManagement\Types\CaseSummaryType;
 
-class CaseSummaryTypeTest extends \PHPUnit_Framework_TestCase
+class CaseSummaryTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

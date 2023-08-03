@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Order\Types;
 
 use DTS\eBaySDK\Order\Types\ShippingFulfillment;
 
-class ShippingFulfillmentTest extends \PHPUnit_Framework_TestCase
+class ShippingFulfillmentTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

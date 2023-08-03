@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Marketing\Types;
 
 use DTS\eBaySDK\Marketing\Types\CloneCampaignRestResponse;
 
-class CloneCampaignRestResponseTest extends \PHPUnit_Framework_TestCase
+class CloneCampaignRestResponseTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

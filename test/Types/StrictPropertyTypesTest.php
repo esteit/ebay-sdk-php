@@ -3,7 +3,7 @@ namespace DTS\eBaySDK\Types\Test;
 
 use DTS\eBaySDK\Test\Mocks\ComplexClass;
 
-class StrictPropertyTypesTest extends \PHPUnit_Framework_TestCase
+class StrictPropertyTypesTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

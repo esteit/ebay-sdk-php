@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Enums;
 
 use DTS\eBaySDK\Trading\Enums\MailOptionsTypeCodeType;
 
-class MailOptionsTypeCodeTypeTest extends \PHPUnit_Framework_TestCase
+class MailOptionsTypeCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

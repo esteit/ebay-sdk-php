@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\ReturnManagement\Types;
 
 use DTS\eBaySDK\ReturnManagement\Types\ReturnReasonType;
 
-class ReturnReasonTypeTest extends \PHPUnit_Framework_TestCase
+class ReturnReasonTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Enums;
 
 use DTS\eBaySDK\Trading\Enums\RequiredSellerActionCodeType;
 
-class RequiredSellerActionCodeTypeTest extends \PHPUnit_Framework_TestCase
+class RequiredSellerActionCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

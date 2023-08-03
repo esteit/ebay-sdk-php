@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Feedback\Types;
 
 use DTS\eBaySDK\Feedback\Types\CreateDSRSummaryResponse;
 
-class CreateDSRSummaryResponseTest extends \PHPUnit_Framework_TestCase
+class CreateDSRSummaryResponseTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\ProductMetadata\Types;
 
 use DTS\eBaySDK\ProductMetadata\Types\StringTypeSpecificInformation;
 
-class StringTypeSpecificInformationTest extends \PHPUnit_Framework_TestCase
+class StringTypeSpecificInformationTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

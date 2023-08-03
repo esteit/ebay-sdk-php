@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\ValuePackEnabledDefinitionType;
 
-class ValuePackEnabledDefinitionTypeTest extends \PHPUnit_Framework_TestCase
+class ValuePackEnabledDefinitionTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

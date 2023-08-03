@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Order\Types;
 
 use DTS\eBaySDK\Order\Types\CheckoutSessionResponse;
 
-class CheckoutSessionResponseTest extends \PHPUnit_Framework_TestCase
+class CheckoutSessionResponseTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

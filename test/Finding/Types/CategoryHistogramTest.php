@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Finding\Types;
 
 use DTS\eBaySDK\Finding\Types\CategoryHistogram;
 
-class CategoryHistogramTest extends \PHPUnit_Framework_TestCase
+class CategoryHistogramTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

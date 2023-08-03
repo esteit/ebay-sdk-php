@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\PostOrder\Enums;
 
 use DTS\eBaySDK\PostOrder\Enums\CaseCloseReasonEnum;
 
-class CaseCloseReasonEnumTest extends \PHPUnit_Framework_TestCase
+class CaseCloseReasonEnumTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

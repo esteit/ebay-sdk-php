@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\PostOrder\Types;
 
 use DTS\eBaySDK\PostOrder\Types\CheckShippingLabelEligibilityRestResponse;
 
-class CheckShippingLabelEligibilityRestResponseTest extends \PHPUnit_Framework_TestCase
+class CheckShippingLabelEligibilityRestResponseTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Inventory\Types;
 
 use DTS\eBaySDK\Inventory\Types\DeleteInventoryLocationRestResponse;
 
-class DeleteInventoryLocationRestResponseTest extends \PHPUnit_Framework_TestCase
+class DeleteInventoryLocationRestResponseTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

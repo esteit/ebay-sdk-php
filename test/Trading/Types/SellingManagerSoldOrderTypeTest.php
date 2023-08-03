@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\SellingManagerSoldOrderType;
 
-class SellingManagerSoldOrderTypeTest extends \PHPUnit_Framework_TestCase
+class SellingManagerSoldOrderTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

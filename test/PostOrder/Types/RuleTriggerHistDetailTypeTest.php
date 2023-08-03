@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\PostOrder\Types;
 
 use DTS\eBaySDK\PostOrder\Types\RuleTriggerHistDetailType;
 
-class RuleTriggerHistDetailTypeTest extends \PHPUnit_Framework_TestCase
+class RuleTriggerHistDetailTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

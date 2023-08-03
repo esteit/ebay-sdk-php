@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Enums;
 
 use DTS\eBaySDK\Trading\Enums\ShippingPackageCodeType;
 
-class ShippingPackageCodeTypeTest extends \PHPUnit_Framework_TestCase
+class ShippingPackageCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\SupportedEventTypesArrayType;
 
-class SupportedEventTypesArrayTypeTest extends \PHPUnit_Framework_TestCase
+class SupportedEventTypesArrayTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

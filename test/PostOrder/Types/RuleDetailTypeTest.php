@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\PostOrder\Types;
 
 use DTS\eBaySDK\PostOrder\Types\RuleDetailType;
 
-class RuleDetailTypeTest extends \PHPUnit_Framework_TestCase
+class RuleDetailTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

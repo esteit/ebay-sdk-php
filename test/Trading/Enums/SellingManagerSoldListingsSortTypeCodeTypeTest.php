@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Enums;
 
 use DTS\eBaySDK\Trading\Enums\SellingManagerSoldListingsSortTypeCodeType;
 
-class SellingManagerSoldListingsSortTypeCodeTypeTest extends \PHPUnit_Framework_TestCase
+class SellingManagerSoldListingsSortTypeCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

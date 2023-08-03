@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\SetUserNotesResponseType;
 
-class SetUserNotesResponseTypeTest extends \PHPUnit_Framework_TestCase
+class SetUserNotesResponseTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

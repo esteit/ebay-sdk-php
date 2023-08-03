@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Enums;
 
 use DTS\eBaySDK\Trading\Enums\SellerPIStatusCodeType;
 
-class SellerPIStatusCodeTypeTest extends \PHPUnit_Framework_TestCase
+class SellerPIStatusCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

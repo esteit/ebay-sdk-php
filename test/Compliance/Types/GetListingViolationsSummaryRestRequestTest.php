@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Compliance\Types;
 
 use DTS\eBaySDK\Compliance\Types\GetListingViolationsSummaryRestRequest;
 
-class GetListingViolationsSummaryRestRequestTest extends \PHPUnit_Framework_TestCase
+class GetListingViolationsSummaryRestRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

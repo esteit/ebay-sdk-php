@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\ShippingCategoryDetailsType;
 
-class ShippingCategoryDetailsTypeTest extends \PHPUnit_Framework_TestCase
+class ShippingCategoryDetailsTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

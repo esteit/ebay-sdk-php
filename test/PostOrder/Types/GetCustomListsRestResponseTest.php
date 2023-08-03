@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\PostOrder\Types;
 
 use DTS\eBaySDK\PostOrder\Types\GetCustomListsRestResponse;
 
-class GetCustomListsRestResponseTest extends \PHPUnit_Framework_TestCase
+class GetCustomListsRestResponseTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

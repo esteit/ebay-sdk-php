@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\ExtendedPictureDetailsType;
 
-class ExtendedPictureDetailsTypeTest extends \PHPUnit_Framework_TestCase
+class ExtendedPictureDetailsTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

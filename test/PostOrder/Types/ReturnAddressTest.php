@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\PostOrder\Types;
 
 use DTS\eBaySDK\PostOrder\Types\ReturnAddress;
 
-class ReturnAddressTest extends \PHPUnit_Framework_TestCase
+class ReturnAddressTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

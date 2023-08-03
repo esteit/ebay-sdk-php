@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\DistanceType;
 
-class DistanceTypeTest extends \PHPUnit_Framework_TestCase
+class DistanceTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

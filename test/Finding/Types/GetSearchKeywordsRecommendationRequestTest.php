@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Finding\Types;
 
 use DTS\eBaySDK\Finding\Types\GetSearchKeywordsRecommendationRequest;
 
-class GetSearchKeywordsRecommendationRequestTest extends \PHPUnit_Framework_TestCase
+class GetSearchKeywordsRecommendationRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

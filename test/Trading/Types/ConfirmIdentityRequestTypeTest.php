@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\ConfirmIdentityRequestType;
 
-class ConfirmIdentityRequestTypeTest extends \PHPUnit_Framework_TestCase
+class ConfirmIdentityRequestTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

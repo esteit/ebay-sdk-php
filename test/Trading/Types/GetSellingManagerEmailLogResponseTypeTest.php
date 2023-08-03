@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\GetSellingManagerEmailLogResponseType;
 
-class GetSellingManagerEmailLogResponseTypeTest extends \PHPUnit_Framework_TestCase
+class GetSellingManagerEmailLogResponseTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

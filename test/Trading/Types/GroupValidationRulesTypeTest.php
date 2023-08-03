@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\GroupValidationRulesType;
 
-class GroupValidationRulesTypeTest extends \PHPUnit_Framework_TestCase
+class GroupValidationRulesTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

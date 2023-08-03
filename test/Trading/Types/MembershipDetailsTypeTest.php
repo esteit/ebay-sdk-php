@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\MembershipDetailsType;
 
-class MembershipDetailsTypeTest extends \PHPUnit_Framework_TestCase
+class MembershipDetailsTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

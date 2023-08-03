@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\BulkDataExchange\Types;
 
 use DTS\eBaySDK\BulkDataExchange\Types\BaseServiceRequest;
 
-class BaseServiceRequestTest extends \PHPUnit_Framework_TestCase
+class BaseServiceRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

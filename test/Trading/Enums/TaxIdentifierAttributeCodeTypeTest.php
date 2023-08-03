@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Enums;
 
 use DTS\eBaySDK\Trading\Enums\TaxIdentifierAttributeCodeType;
 
-class TaxIdentifierAttributeCodeTypeTest extends \PHPUnit_Framework_TestCase
+class TaxIdentifierAttributeCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Browse\Enums;
 
 use DTS\eBaySDK\Browse\Enums\TimeDurationUnitEnum;
 
-class TimeDurationUnitEnumTest extends \PHPUnit_Framework_TestCase
+class TimeDurationUnitEnumTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

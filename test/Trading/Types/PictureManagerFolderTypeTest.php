@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\PictureManagerFolderType;
 
-class PictureManagerFolderTypeTest extends \PHPUnit_Framework_TestCase
+class PictureManagerFolderTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

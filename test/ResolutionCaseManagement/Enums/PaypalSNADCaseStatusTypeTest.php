@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\ResolutionCaseManagement\Enums;
 
 use DTS\eBaySDK\ResolutionCaseManagement\Enums\PaypalSNADCaseStatusType;
 
-class PaypalSNADCaseStatusTypeTest extends \PHPUnit_Framework_TestCase
+class PaypalSNADCaseStatusTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

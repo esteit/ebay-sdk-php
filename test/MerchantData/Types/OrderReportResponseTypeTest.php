@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\MerchantData\Types;
 
 use DTS\eBaySDK\MerchantData\Types\OrderReportResponseType;
 
-class OrderReportResponseTypeTest extends \PHPUnit_Framework_TestCase
+class OrderReportResponseTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

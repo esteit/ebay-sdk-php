@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\BulkDataExchange\Enums;
 
 use DTS\eBaySDK\BulkDataExchange\Enums\OrderStatusTypes;
 
-class OrderStatusTypesTest extends \PHPUnit_Framework_TestCase
+class OrderStatusTypesTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

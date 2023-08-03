@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\CartItemType;
 
-class CartItemTypeTest extends \PHPUnit_Framework_TestCase
+class CartItemTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

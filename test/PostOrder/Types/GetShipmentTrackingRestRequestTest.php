@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\PostOrder\Types;
 
 use DTS\eBaySDK\PostOrder\Types\GetShipmentTrackingRestRequest;
 
-class GetShipmentTrackingRestRequestTest extends \PHPUnit_Framework_TestCase
+class GetShipmentTrackingRestRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

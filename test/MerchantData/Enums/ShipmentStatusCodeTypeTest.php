@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\MerchantData\Enums;
 
 use DTS\eBaySDK\MerchantData\Enums\ShipmentStatusCodeType;
 
-class ShipmentStatusCodeTypeTest extends \PHPUnit_Framework_TestCase
+class ShipmentStatusCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\PostOrder\Types;
 
 use DTS\eBaySDK\PostOrder\Types\ListDataType;
 
-class ListDataTypeTest extends \PHPUnit_Framework_TestCase
+class ListDataTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

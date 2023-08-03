@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Marketing\Types;
 
 use DTS\eBaySDK\Marketing\Types\ResumeCampaignRestRequest;
 
-class ResumeCampaignRestRequestTest extends \PHPUnit_Framework_TestCase
+class ResumeCampaignRestRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Inventory\Types;
 
 use DTS\eBaySDK\Inventory\Types\LocationResponse;
 
-class LocationResponseTest extends \PHPUnit_Framework_TestCase
+class LocationResponseTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\FlatShippingDiscountType;
 
-class FlatShippingDiscountTypeTest extends \PHPUnit_Framework_TestCase
+class FlatShippingDiscountTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

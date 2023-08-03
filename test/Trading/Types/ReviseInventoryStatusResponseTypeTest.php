@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\ReviseInventoryStatusResponseType;
 
-class ReviseInventoryStatusResponseTypeTest extends \PHPUnit_Framework_TestCase
+class ReviseInventoryStatusResponseTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

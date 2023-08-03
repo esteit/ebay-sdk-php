@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\PostOrder\Types;
 
 use DTS\eBaySDK\PostOrder\Types\CaseSummaryType;
 
-class CaseSummaryTypeTest extends \PHPUnit_Framework_TestCase
+class CaseSummaryTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Enums;
 
 use DTS\eBaySDK\Trading\Enums\AddressStatusCodeType;
 
-class AddressStatusCodeTypeTest extends \PHPUnit_Framework_TestCase
+class AddressStatusCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

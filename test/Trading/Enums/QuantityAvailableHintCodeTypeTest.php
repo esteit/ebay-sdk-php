@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Enums;
 
 use DTS\eBaySDK\Trading\Enums\QuantityAvailableHintCodeType;
 
-class QuantityAvailableHintCodeTypeTest extends \PHPUnit_Framework_TestCase
+class QuantityAvailableHintCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

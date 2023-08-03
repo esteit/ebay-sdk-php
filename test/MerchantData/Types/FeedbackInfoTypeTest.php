@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\MerchantData\Types;
 
 use DTS\eBaySDK\MerchantData\Types\FeedbackInfoType;
 
-class FeedbackInfoTypeTest extends \PHPUnit_Framework_TestCase
+class FeedbackInfoTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

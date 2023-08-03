@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Order\Enums;
 
 use DTS\eBaySDK\Order\Enums\CurrencyCodeEnum;
 
-class CurrencyCodeEnumTest extends \PHPUnit_Framework_TestCase
+class CurrencyCodeEnumTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\PostOrder\Types;
 
 use DTS\eBaySDK\PostOrder\Types\AppealDetails;
 
-class AppealDetailsTest extends \PHPUnit_Framework_TestCase
+class AppealDetailsTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

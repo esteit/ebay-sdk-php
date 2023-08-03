@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Account\Types;
 
 use DTS\eBaySDK\Account\Types\SalesTax;
 
-class SalesTaxTest extends \PHPUnit_Framework_TestCase
+class SalesTaxTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\FileTransfer\Types;
 
 use DTS\eBaySDK\FileTransfer\Types\UploadFileRequest;
 
-class UploadFileRequestTest extends \PHPUnit_Framework_TestCase
+class UploadFileRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

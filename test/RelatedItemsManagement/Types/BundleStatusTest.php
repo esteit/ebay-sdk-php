@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\RelatedItemsManagement\Types;
 
 use DTS\eBaySDK\RelatedItemsManagement\Types\BundleStatus;
 
-class BundleStatusTest extends \PHPUnit_Framework_TestCase
+class BundleStatusTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\GetUserContactDetailsResponseType;
 
-class GetUserContactDetailsResponseTypeTest extends \PHPUnit_Framework_TestCase
+class GetUserContactDetailsResponseTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\EndItemRequestType;
 
-class EndItemRequestTypeTest extends \PHPUnit_Framework_TestCase
+class EndItemRequestTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

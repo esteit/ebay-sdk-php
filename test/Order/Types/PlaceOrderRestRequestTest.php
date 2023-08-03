@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Order\Types;
 
 use DTS\eBaySDK\Order\Types\PlaceOrderRestRequest;
 
-class PlaceOrderRestRequestTest extends \PHPUnit_Framework_TestCase
+class PlaceOrderRestRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

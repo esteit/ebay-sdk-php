@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Shopping\Enums;
 
 use DTS\eBaySDK\Shopping\Enums\FeedbackRatingStarCodeType;
 
-class FeedbackRatingStarCodeTypeTest extends \PHPUnit_Framework_TestCase
+class FeedbackRatingStarCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

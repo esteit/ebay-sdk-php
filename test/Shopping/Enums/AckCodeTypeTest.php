@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Shopping\Enums;
 
 use DTS\eBaySDK\Shopping\Enums\AckCodeType;
 
-class AckCodeTypeTest extends \PHPUnit_Framework_TestCase
+class AckCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

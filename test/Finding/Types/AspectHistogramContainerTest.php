@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Finding\Types;
 
 use DTS\eBaySDK\Finding\Types\AspectHistogramContainer;
 
-class AspectHistogramContainerTest extends \PHPUnit_Framework_TestCase
+class AspectHistogramContainerTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

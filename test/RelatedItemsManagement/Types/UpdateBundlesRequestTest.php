@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\RelatedItemsManagement\Types;
 
 use DTS\eBaySDK\RelatedItemsManagement\Types\UpdateBundlesRequest;
 
-class UpdateBundlesRequestTest extends \PHPUnit_Framework_TestCase
+class UpdateBundlesRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

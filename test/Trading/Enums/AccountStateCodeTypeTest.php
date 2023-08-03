@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Enums;
 
 use DTS\eBaySDK\Trading\Enums\AccountStateCodeType;
 
-class AccountStateCodeTypeTest extends \PHPUnit_Framework_TestCase
+class AccountStateCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

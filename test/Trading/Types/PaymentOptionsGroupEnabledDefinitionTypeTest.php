@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\PaymentOptionsGroupEnabledDefinitionType;
 
-class PaymentOptionsGroupEnabledDefinitionTypeTest extends \PHPUnit_Framework_TestCase
+class PaymentOptionsGroupEnabledDefinitionTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

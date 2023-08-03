@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\UnitOfMeasurementDetailsType;
 
-class UnitOfMeasurementDetailsTypeTest extends \PHPUnit_Framework_TestCase
+class UnitOfMeasurementDetailsTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

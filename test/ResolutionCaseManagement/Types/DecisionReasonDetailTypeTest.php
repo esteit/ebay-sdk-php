@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\ResolutionCaseManagement\Types;
 
 use DTS\eBaySDK\ResolutionCaseManagement\Types\DecisionReasonDetailType;
 
-class DecisionReasonDetailTypeTest extends \PHPUnit_Framework_TestCase
+class DecisionReasonDetailTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\ProductMetadata\Enums;
 
 use DTS\eBaySDK\ProductMetadata\Enums\AckValue;
 
-class AckValueTest extends \PHPUnit_Framework_TestCase
+class AckValueTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

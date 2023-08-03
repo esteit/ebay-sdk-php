@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Inventory\Types;
 
 use DTS\eBaySDK\Inventory\Types\WithdrawOfferRestResponse;
 
-class WithdrawOfferRestResponseTest extends \PHPUnit_Framework_TestCase
+class WithdrawOfferRestResponseTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

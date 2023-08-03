@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\MerchantData\Types;
 
 use DTS\eBaySDK\MerchantData\Types\RelistItemResponseType;
 
-class RelistItemResponseTypeTest extends \PHPUnit_Framework_TestCase
+class RelistItemResponseTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

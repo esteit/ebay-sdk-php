@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Enums;
 
 use DTS\eBaySDK\Trading\Enums\RefundFailureCodeType;
 
-class RefundFailureCodeTypeTest extends \PHPUnit_Framework_TestCase
+class RefundFailureCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

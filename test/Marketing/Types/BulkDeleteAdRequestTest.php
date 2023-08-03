@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Marketing\Types;
 
 use DTS\eBaySDK\Marketing\Types\BulkDeleteAdRequest;
 
-class BulkDeleteAdRequestTest extends \PHPUnit_Framework_TestCase
+class BulkDeleteAdRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\MerchantData\Types;
 
 use DTS\eBaySDK\MerchantData\Types\BestOfferDetailsType;
 
-class BestOfferDetailsTypeTest extends \PHPUnit_Framework_TestCase
+class BestOfferDetailsTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

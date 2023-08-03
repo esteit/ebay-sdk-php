@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\HalfFinding\Types;
 
 use DTS\eBaySDK\HalfFinding\Types\StorefrontType;
 
-class StorefrontTypeTest extends \PHPUnit_Framework_TestCase
+class StorefrontTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

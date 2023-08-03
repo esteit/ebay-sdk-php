@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Inventory\Types;
 
 use DTS\eBaySDK\Inventory\Types\GetOfferRestResponse;
 
-class GetOfferRestResponseTest extends \PHPUnit_Framework_TestCase
+class GetOfferRestResponseTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

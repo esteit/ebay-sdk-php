@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\SetStoreCustomPageRequestType;
 
-class SetStoreCustomPageRequestTypeTest extends \PHPUnit_Framework_TestCase
+class SetStoreCustomPageRequestTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

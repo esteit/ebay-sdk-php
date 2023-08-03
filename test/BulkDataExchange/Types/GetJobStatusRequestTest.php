@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\BulkDataExchange\Types;
 
 use DTS\eBaySDK\BulkDataExchange\Types\GetJobStatusRequest;
 
-class GetJobStatusRequestTest extends \PHPUnit_Framework_TestCase
+class GetJobStatusRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

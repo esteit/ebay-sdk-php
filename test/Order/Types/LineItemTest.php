@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Order\Types;
 
 use DTS\eBaySDK\Order\Types\LineItem;
 
-class LineItemTest extends \PHPUnit_Framework_TestCase
+class LineItemTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

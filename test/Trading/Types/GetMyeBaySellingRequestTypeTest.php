@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\GetMyeBaySellingRequestType;
 
-class GetMyeBaySellingRequestTypeTest extends \PHPUnit_Framework_TestCase
+class GetMyeBaySellingRequestTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

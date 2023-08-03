@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\FeedbackPeriodType;
 
-class FeedbackPeriodTypeTest extends \PHPUnit_Framework_TestCase
+class FeedbackPeriodTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

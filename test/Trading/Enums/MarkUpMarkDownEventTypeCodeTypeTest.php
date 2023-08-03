@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Enums;
 
 use DTS\eBaySDK\Trading\Enums\MarkUpMarkDownEventTypeCodeType;
 
-class MarkUpMarkDownEventTypeCodeTypeTest extends \PHPUnit_Framework_TestCase
+class MarkUpMarkDownEventTypeCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Order\Types;
 
 use DTS\eBaySDK\Order\Types\GetPurchaseOrderRestRequest;
 
-class GetPurchaseOrderRestRequestTest extends \PHPUnit_Framework_TestCase
+class GetPurchaseOrderRestRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

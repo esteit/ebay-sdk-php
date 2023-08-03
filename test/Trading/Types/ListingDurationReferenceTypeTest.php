@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\ListingDurationReferenceType;
 
-class ListingDurationReferenceTypeTest extends \PHPUnit_Framework_TestCase
+class ListingDurationReferenceTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

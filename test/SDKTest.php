@@ -3,7 +3,7 @@ namespace DTS\eBaySDK\Test;
 
 use DTS\eBaySDK\Sdk;
 
-class SdkTest extends \PHPUnit_Framework_TestCase
+class SdkTest extends \PHPUnit\Framework\TestCase
 {
     private $sdk;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\PostOrder\Types;
 
 use DTS\eBaySDK\PostOrder\Types\CreateCancelRequest;
 
-class CreateCancelRequestTest extends \PHPUnit_Framework_TestCase
+class CreateCancelRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

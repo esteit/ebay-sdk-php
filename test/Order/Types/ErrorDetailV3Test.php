@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Order\Types;
 
 use DTS\eBaySDK\Order\Types\ErrorDetailV3;
 
-class ErrorDetailV3Test extends \PHPUnit_Framework_TestCase
+class ErrorDetailV3Test extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

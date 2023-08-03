@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\BestOfferArrayType;
 
-class BestOfferArrayTypeTest extends \PHPUnit_Framework_TestCase
+class BestOfferArrayTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

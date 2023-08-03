@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\HalfFinding\Enums;
 
 use DTS\eBaySDK\HalfFinding\Enums\RentalDurationType;
 
-class RentalDurationTypeTest extends \PHPUnit_Framework_TestCase
+class RentalDurationTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

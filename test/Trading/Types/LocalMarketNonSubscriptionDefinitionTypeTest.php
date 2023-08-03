@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\LocalMarketNonSubscriptionDefinitionType;
 
-class LocalMarketNonSubscriptionDefinitionTypeTest extends \PHPUnit_Framework_TestCase
+class LocalMarketNonSubscriptionDefinitionTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

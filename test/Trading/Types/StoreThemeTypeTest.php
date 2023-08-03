@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\StoreThemeType;
 
-class StoreThemeTypeTest extends \PHPUnit_Framework_TestCase
+class StoreThemeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

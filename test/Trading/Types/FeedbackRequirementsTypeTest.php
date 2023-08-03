@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\FeedbackRequirementsType;
 
-class FeedbackRequirementsTypeTest extends \PHPUnit_Framework_TestCase
+class FeedbackRequirementsTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

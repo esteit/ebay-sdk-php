@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\AddTransactionConfirmationItemRequestType;
 
-class AddTransactionConfirmationItemRequestTypeTest extends \PHPUnit_Framework_TestCase
+class AddTransactionConfirmationItemRequestTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

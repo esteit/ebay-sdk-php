@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Account\Types;
 
 use DTS\eBaySDK\Account\Types\CreateAPaymentPolicyRestResponse;
 
-class CreateAPaymentPolicyRestResponseTest extends \PHPUnit_Framework_TestCase
+class CreateAPaymentPolicyRestResponseTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

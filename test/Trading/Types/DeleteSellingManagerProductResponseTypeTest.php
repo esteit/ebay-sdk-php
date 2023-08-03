@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\DeleteSellingManagerProductResponseType;
 
-class DeleteSellingManagerProductResponseTypeTest extends \PHPUnit_Framework_TestCase
+class DeleteSellingManagerProductResponseTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

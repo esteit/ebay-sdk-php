@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Product\Types;
 
 use DTS\eBaySDK\Product\Types\ProductStatus;
 
-class ProductStatusTest extends \PHPUnit_Framework_TestCase
+class ProductStatusTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

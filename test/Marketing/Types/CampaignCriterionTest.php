@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Marketing\Types;
 
 use DTS\eBaySDK\Marketing\Types\CampaignCriterion;
 
-class CampaignCriterionTest extends \PHPUnit_Framework_TestCase
+class CampaignCriterionTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

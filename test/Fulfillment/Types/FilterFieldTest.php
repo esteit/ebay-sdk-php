@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Fulfillment\Types;
 
 use DTS\eBaySDK\Fulfillment\Types\FilterField;
 
-class FilterFieldTest extends \PHPUnit_Framework_TestCase
+class FilterFieldTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

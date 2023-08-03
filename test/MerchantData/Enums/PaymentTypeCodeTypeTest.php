@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\MerchantData\Enums;
 
 use DTS\eBaySDK\MerchantData\Enums\PaymentTypeCodeType;
 
-class PaymentTypeCodeTypeTest extends \PHPUnit_Framework_TestCase
+class PaymentTypeCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

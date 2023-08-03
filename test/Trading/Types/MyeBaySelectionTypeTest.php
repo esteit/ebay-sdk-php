@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\MyeBaySelectionType;
 
-class MyeBaySelectionTypeTest extends \PHPUnit_Framework_TestCase
+class MyeBaySelectionTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\PostOrder\Types;
 
 use DTS\eBaySDK\PostOrder\Types\CreateReturnDraftRestResponse;
 
-class CreateReturnDraftRestResponseTest extends \PHPUnit_Framework_TestCase
+class CreateReturnDraftRestResponseTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

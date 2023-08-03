@@ -3,7 +3,7 @@ namespace DTS\eBaySDK\Types\Test;
 
 use DTS\eBaySDK\Types\DoubleType;
 
-class DoubleTypeTest extends \PHPUnit_Framework_TestCase
+class DoubleTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

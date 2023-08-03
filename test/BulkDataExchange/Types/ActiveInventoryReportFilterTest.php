@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\BulkDataExchange\Types;
 
 use DTS\eBaySDK\BulkDataExchange\Types\ActiveInventoryReportFilter;
 
-class ActiveInventoryReportFilterTest extends \PHPUnit_Framework_TestCase
+class ActiveInventoryReportFilterTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

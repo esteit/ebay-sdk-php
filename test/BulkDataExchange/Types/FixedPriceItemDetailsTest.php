@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\BulkDataExchange\Types;
 
 use DTS\eBaySDK\BulkDataExchange\Types\FixedPriceItemDetails;
 
-class FixedPriceItemDetailsTest extends \PHPUnit_Framework_TestCase
+class FixedPriceItemDetailsTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\ProductMetadata\Types;
 
 use DTS\eBaySDK\ProductMetadata\Types\ExtensionType;
 
-class ExtensionTypeTest extends \PHPUnit_Framework_TestCase
+class ExtensionTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

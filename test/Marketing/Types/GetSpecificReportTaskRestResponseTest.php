@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Marketing\Types;
 
 use DTS\eBaySDK\Marketing\Types\GetSpecificReportTaskRestResponse;
 
-class GetSpecificReportTaskRestResponseTest extends \PHPUnit_Framework_TestCase
+class GetSpecificReportTaskRestResponseTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

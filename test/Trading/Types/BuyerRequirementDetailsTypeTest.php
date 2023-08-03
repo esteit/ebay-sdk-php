@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\BuyerRequirementDetailsType;
 
-class BuyerRequirementDetailsTypeTest extends \PHPUnit_Framework_TestCase
+class BuyerRequirementDetailsTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

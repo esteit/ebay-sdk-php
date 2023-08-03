@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\PostOrder\Types;
 
 use DTS\eBaySDK\PostOrder\Types\CheckReturnEligibilityRestResponse;
 
-class CheckReturnEligibilityRestResponseTest extends \PHPUnit_Framework_TestCase
+class CheckReturnEligibilityRestResponseTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

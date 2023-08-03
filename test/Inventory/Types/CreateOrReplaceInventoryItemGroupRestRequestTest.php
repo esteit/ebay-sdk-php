@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Inventory\Types;
 
 use DTS\eBaySDK\Inventory\Types\CreateOrReplaceInventoryItemGroupRestRequest;
 
-class CreateOrReplaceInventoryItemGroupRestRequestTest extends \PHPUnit_Framework_TestCase
+class CreateOrReplaceInventoryItemGroupRestRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

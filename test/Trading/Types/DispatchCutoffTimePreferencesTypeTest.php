@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\DispatchCutoffTimePreferencesType;
 
-class DispatchCutoffTimePreferencesTypeTest extends \PHPUnit_Framework_TestCase
+class DispatchCutoffTimePreferencesTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

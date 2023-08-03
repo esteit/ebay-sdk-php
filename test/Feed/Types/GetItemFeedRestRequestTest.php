@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Feed\Types;
 
 use DTS\eBaySDK\Feed\Types\GetItemFeedRestRequest;
 
-class GetItemFeedRestRequestTest extends \PHPUnit_Framework_TestCase
+class GetItemFeedRestRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\SellerFavoriteItemPreferencesType;
 
-class SellerFavoriteItemPreferencesTypeTest extends \PHPUnit_Framework_TestCase
+class SellerFavoriteItemPreferencesTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

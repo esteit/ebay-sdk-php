@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\MerchantData\Types;
 
 use DTS\eBaySDK\MerchantData\Types\TransactionReferenceType;
 
-class TransactionReferenceTypeTest extends \PHPUnit_Framework_TestCase
+class TransactionReferenceTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

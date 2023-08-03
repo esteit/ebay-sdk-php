@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Inventory\Types;
 
 use DTS\eBaySDK\Inventory\Types\OfferKeyWithId;
 
-class OfferKeyWithIdTest extends \PHPUnit_Framework_TestCase
+class OfferKeyWithIdTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

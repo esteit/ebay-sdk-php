@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Analytics\Types;
 
 use DTS\eBaySDK\Analytics\Types\GetTrafficReportRestResponse;
 
-class GetTrafficReportRestResponseTest extends \PHPUnit_Framework_TestCase
+class GetTrafficReportRestResponseTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

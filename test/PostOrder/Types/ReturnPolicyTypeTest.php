@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\PostOrder\Types;
 
 use DTS\eBaySDK\PostOrder\Types\ReturnPolicyType;
 
-class ReturnPolicyTypeTest extends \PHPUnit_Framework_TestCase
+class ReturnPolicyTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

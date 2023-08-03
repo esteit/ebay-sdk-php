@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\PostOrder\Types;
 
 use DTS\eBaySDK\PostOrder\Types\VoidShippingLabelRestRequest;
 
-class VoidShippingLabelRestRequestTest extends \PHPUnit_Framework_TestCase
+class VoidShippingLabelRestRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

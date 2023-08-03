@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\BusinessPoliciesManagement\Types;
 
 use DTS\eBaySDK\BusinessPoliciesManagement\Types\RateTableInfo;
 
-class RateTableInfoTest extends \PHPUnit_Framework_TestCase
+class RateTableInfoTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

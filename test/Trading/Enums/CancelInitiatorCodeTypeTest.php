@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Enums;
 
 use DTS\eBaySDK\Trading\Enums\CancelInitiatorCodeType;
 
-class CancelInitiatorCodeTypeTest extends \PHPUnit_Framework_TestCase
+class CancelInitiatorCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

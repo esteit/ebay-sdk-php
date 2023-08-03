@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\ReviewDetailsType;
 
-class ReviewDetailsTypeTest extends \PHPUnit_Framework_TestCase
+class ReviewDetailsTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

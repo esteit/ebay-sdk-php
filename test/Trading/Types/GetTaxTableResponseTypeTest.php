@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\GetTaxTableResponseType;
 
-class GetTaxTableResponseTypeTest extends \PHPUnit_Framework_TestCase
+class GetTaxTableResponseTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

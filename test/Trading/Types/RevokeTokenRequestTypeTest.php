@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\RevokeTokenRequestType;
 
-class RevokeTokenRequestTypeTest extends \PHPUnit_Framework_TestCase
+class RevokeTokenRequestTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

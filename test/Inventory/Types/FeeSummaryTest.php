@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Inventory\Types;
 
 use DTS\eBaySDK\Inventory\Types\FeeSummary;
 
-class FeeSummaryTest extends \PHPUnit_Framework_TestCase
+class FeeSummaryTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

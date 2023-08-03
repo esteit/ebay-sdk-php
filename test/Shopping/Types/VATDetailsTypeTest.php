@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Shopping\Types;
 
 use DTS\eBaySDK\Shopping\Types\VATDetailsType;
 
-class VATDetailsTypeTest extends \PHPUnit_Framework_TestCase
+class VATDetailsTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

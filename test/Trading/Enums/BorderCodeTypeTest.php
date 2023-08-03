@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Enums;
 
 use DTS\eBaySDK\Trading\Enums\BorderCodeType;
 
-class BorderCodeTypeTest extends \PHPUnit_Framework_TestCase
+class BorderCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

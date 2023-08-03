@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Enums;
 
 use DTS\eBaySDK\Trading\Enums\BuyerPaymentInstrumentCodeType;
 
-class BuyerPaymentInstrumentCodeTypeTest extends \PHPUnit_Framework_TestCase
+class BuyerPaymentInstrumentCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

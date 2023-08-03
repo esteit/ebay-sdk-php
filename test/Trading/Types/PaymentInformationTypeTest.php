@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\PaymentInformationType;
 
-class PaymentInformationTypeTest extends \PHPUnit_Framework_TestCase
+class PaymentInformationTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

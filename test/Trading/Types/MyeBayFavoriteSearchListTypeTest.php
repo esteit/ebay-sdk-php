@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\MyeBayFavoriteSearchListType;
 
-class MyeBayFavoriteSearchListTypeTest extends \PHPUnit_Framework_TestCase
+class MyeBayFavoriteSearchListTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

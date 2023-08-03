@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\ResolutionCaseManagement\Types;
 
 use DTS\eBaySDK\ResolutionCaseManagement\Types\CaseArrayType;
 
-class CaseArrayTypeTest extends \PHPUnit_Framework_TestCase
+class CaseArrayTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

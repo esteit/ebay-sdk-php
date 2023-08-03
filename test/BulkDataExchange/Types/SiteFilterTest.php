@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\BulkDataExchange\Types;
 
 use DTS\eBaySDK\BulkDataExchange\Types\SiteFilter;
 
-class SiteFilterTest extends \PHPUnit_Framework_TestCase
+class SiteFilterTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

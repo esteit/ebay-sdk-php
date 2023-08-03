@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Enums;
 
 use DTS\eBaySDK\Trading\Enums\ProductRequiredCodeType;
 
-class ProductRequiredCodeTypeTest extends \PHPUnit_Framework_TestCase
+class ProductRequiredCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

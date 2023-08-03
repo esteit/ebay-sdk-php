@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Fulfillment\Enums;
 
 use DTS\eBaySDK\Fulfillment\Enums\RefundTypeEnum;
 
-class RefundTypeEnumTest extends \PHPUnit_Framework_TestCase
+class RefundTypeEnumTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

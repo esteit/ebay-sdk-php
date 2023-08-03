@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\ResolutionCaseManagement\Types;
 
 use DTS\eBaySDK\ResolutionCaseManagement\Types\MoneyMovementDetailType;
 
-class MoneyMovementDetailTypeTest extends \PHPUnit_Framework_TestCase
+class MoneyMovementDetailTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -3,7 +3,7 @@ namespace DTS\eBaySDK\Test\OAuth\Types;
 
 use DTS\eBaySDK\OAuth\Types\GetUserTokenRestRequest;
 
-class GetUserTokenRestRequestTest extends \PHPUnit_Framework_TestCase
+class GetUserTokenRestRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\ReturnManagement\Types;
 
 use DTS\eBaySDK\ReturnManagement\Types\RefundInfoType;
 
-class RefundInfoTypeTest extends \PHPUnit_Framework_TestCase
+class RefundInfoTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

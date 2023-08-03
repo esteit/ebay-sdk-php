@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\SetTaxTableRequestType;
 
-class SetTaxTableRequestTypeTest extends \PHPUnit_Framework_TestCase
+class SetTaxTableRequestTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\PostOrder\Types;
 
 use DTS\eBaySDK\PostOrder\Types\ConfirmCancellationRefundRestRequest;
 
-class ConfirmCancellationRefundRestRequestTest extends \PHPUnit_Framework_TestCase
+class ConfirmCancellationRefundRestRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

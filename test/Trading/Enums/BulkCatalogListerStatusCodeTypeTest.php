@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Enums;
 
 use DTS\eBaySDK\Trading\Enums\BulkCatalogListerStatusCodeType;
 
-class BulkCatalogListerStatusCodeTypeTest extends \PHPUnit_Framework_TestCase
+class BulkCatalogListerStatusCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

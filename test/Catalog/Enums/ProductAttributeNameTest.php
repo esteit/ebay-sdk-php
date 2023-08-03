@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Catalog\Enums;
 
 use DTS\eBaySDK\Catalog\Enums\ProductAttributeName;
 
-class ProductAttributeNameTest extends \PHPUnit_Framework_TestCase
+class ProductAttributeNameTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

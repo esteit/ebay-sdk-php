@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\MerchantData\Types;
 
 use DTS\eBaySDK\MerchantData\Types\ShipmentType;
 
-class ShipmentTypeTest extends \PHPUnit_Framework_TestCase
+class ShipmentTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\PostOrder\Types;
 
 use DTS\eBaySDK\PostOrder\Types\ProvideLabelRequest;
 
-class ProvideLabelRequestTest extends \PHPUnit_Framework_TestCase
+class ProvideLabelRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

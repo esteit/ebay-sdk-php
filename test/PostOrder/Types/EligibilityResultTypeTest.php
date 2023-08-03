@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\PostOrder\Types;
 
 use DTS\eBaySDK\PostOrder\Types\EligibilityResultType;
 
-class EligibilityResultTypeTest extends \PHPUnit_Framework_TestCase
+class EligibilityResultTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

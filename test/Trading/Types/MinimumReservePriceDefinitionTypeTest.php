@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\MinimumReservePriceDefinitionType;
 
-class MinimumReservePriceDefinitionTypeTest extends \PHPUnit_Framework_TestCase
+class MinimumReservePriceDefinitionTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

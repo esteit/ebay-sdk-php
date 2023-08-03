@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\PostOrder\Types;
 
 use DTS\eBaySDK\PostOrder\Types\ProvideShipmentInfoRequest;
 
-class ProvideShipmentInfoRequestTest extends \PHPUnit_Framework_TestCase
+class ProvideShipmentInfoRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

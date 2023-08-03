@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\ProductMetadata\Types;
 
 use DTS\eBaySDK\ProductMetadata\Types\GetProductSearchDataVersionResponse;
 
-class GetProductSearchDataVersionResponseTest extends \PHPUnit_Framework_TestCase
+class GetProductSearchDataVersionResponseTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

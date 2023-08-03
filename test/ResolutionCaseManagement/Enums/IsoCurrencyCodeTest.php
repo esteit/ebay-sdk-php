@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\ResolutionCaseManagement\Enums;
 
 use DTS\eBaySDK\ResolutionCaseManagement\Enums\IsoCurrencyCode;
 
-class IsoCurrencyCodeTest extends \PHPUnit_Framework_TestCase
+class IsoCurrencyCodeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

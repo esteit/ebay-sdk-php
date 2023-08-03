@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Shopping\Types;
 
 use DTS\eBaySDK\Shopping\Types\PicturesType;
 
-class PicturesTypeTest extends \PHPUnit_Framework_TestCase
+class PicturesTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

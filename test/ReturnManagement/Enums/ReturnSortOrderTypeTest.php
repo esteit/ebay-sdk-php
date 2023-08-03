@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\ReturnManagement\Enums;
 
 use DTS\eBaySDK\ReturnManagement\Enums\ReturnSortOrderType;
 
-class ReturnSortOrderTypeTest extends \PHPUnit_Framework_TestCase
+class ReturnSortOrderTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

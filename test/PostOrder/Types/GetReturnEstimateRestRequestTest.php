@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\PostOrder\Types;
 
 use DTS\eBaySDK\PostOrder\Types\GetReturnEstimateRestRequest;
 
-class GetReturnEstimateRestRequestTest extends \PHPUnit_Framework_TestCase
+class GetReturnEstimateRestRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

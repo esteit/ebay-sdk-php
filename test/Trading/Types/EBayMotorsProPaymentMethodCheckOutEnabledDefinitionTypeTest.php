@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\EBayMotorsProPaymentMethodCheckOutEnabledDefinitionType;
 
-class EBayMotorsProPaymentMethodCheckOutEnabledDefinitionTypeTest extends \PHPUnit_Framework_TestCase
+class EBayMotorsProPaymentMethodCheckOutEnabledDefinitionTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

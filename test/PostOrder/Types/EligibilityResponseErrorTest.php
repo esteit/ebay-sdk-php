@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\PostOrder\Types;
 
 use DTS\eBaySDK\PostOrder\Types\EligibilityResponseError;
 
-class EligibilityResponseErrorTest extends \PHPUnit_Framework_TestCase
+class EligibilityResponseErrorTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

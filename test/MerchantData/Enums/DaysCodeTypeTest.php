@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\MerchantData\Enums;
 
 use DTS\eBaySDK\MerchantData\Enums\DaysCodeType;
 
-class DaysCodeTypeTest extends \PHPUnit_Framework_TestCase
+class DaysCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\BulkDataExchange\Types;
 
 use DTS\eBaySDK\BulkDataExchange\Types\ActivateRecurringJobRequest;
 
-class ActivateRecurringJobRequestTest extends \PHPUnit_Framework_TestCase
+class ActivateRecurringJobRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

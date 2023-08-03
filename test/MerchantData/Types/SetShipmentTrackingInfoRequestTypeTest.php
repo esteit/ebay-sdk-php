@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\MerchantData\Types;
 
 use DTS\eBaySDK\MerchantData\Types\SetShipmentTrackingInfoRequestType;
 
-class SetShipmentTrackingInfoRequestTypeTest extends \PHPUnit_Framework_TestCase
+class SetShipmentTrackingInfoRequestTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

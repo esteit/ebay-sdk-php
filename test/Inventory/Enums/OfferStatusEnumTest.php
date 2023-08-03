@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Inventory\Enums;
 
 use DTS\eBaySDK\Inventory\Enums\OfferStatusEnum;
 
-class OfferStatusEnumTest extends \PHPUnit_Framework_TestCase
+class OfferStatusEnumTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

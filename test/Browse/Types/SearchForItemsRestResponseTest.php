@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Browse\Types;
 
 use DTS\eBaySDK\Browse\Types\SearchForItemsRestResponse;
 
-class SearchForItemsRestResponseTest extends \PHPUnit_Framework_TestCase
+class SearchForItemsRestResponseTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

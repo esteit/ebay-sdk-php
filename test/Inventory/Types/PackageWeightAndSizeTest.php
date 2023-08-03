@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Inventory\Types;
 
 use DTS\eBaySDK\Inventory\Types\PackageWeightAndSize;
 
-class PackageWeightAndSizeTest extends \PHPUnit_Framework_TestCase
+class PackageWeightAndSizeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Order\Types;
 
 use DTS\eBaySDK\Order\Types\UpdatePaymentInfoRestRequest;
 
-class UpdatePaymentInfoRestRequestTest extends \PHPUnit_Framework_TestCase
+class UpdatePaymentInfoRestRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

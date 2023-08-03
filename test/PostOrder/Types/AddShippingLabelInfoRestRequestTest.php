@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\PostOrder\Types;
 
 use DTS\eBaySDK\PostOrder\Types\AddShippingLabelInfoRestRequest;
 
-class AddShippingLabelInfoRestRequestTest extends \PHPUnit_Framework_TestCase
+class AddShippingLabelInfoRestRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

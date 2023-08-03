@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\BulkDataExchange\Types;
 
 use DTS\eBaySDK\BulkDataExchange\Types\OrderReportFilter;
 
-class OrderReportFilterTest extends \PHPUnit_Framework_TestCase
+class OrderReportFilterTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

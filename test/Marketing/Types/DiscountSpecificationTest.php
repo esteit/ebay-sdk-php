@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Marketing\Types;
 
 use DTS\eBaySDK\Marketing\Types\DiscountSpecification;
 
-class DiscountSpecificationTest extends \PHPUnit_Framework_TestCase
+class DiscountSpecificationTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Account\Types;
 
 use DTS\eBaySDK\Account\Types\RateTable;
 
-class RateTableTest extends \PHPUnit_Framework_TestCase
+class RateTableTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

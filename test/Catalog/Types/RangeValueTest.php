@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Catalog\Types;
 
 use DTS\eBaySDK\Catalog\Types\RangeValue;
 
-class RangeValueTest extends \PHPUnit_Framework_TestCase
+class RangeValueTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

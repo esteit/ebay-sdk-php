@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Order\Types;
 
 use DTS\eBaySDK\Order\Types\UpdateQuantity;
 
-class UpdateQuantityTest extends \PHPUnit_Framework_TestCase
+class UpdateQuantityTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\GetFeedbackRequestType;
 
-class GetFeedbackRequestTypeTest extends \PHPUnit_Framework_TestCase
+class GetFeedbackRequestTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

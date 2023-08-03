@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\BasicUpgradePackEnabledDefinitionType;
 
-class BasicUpgradePackEnabledDefinitionTypeTest extends \PHPUnit_Framework_TestCase
+class BasicUpgradePackEnabledDefinitionTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

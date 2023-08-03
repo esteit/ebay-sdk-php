@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Enums;
 
 use DTS\eBaySDK\Trading\Enums\DisputeRecordTypeCodeType;
 
-class DisputeRecordTypeCodeTypeTest extends \PHPUnit_Framework_TestCase
+class DisputeRecordTypeCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

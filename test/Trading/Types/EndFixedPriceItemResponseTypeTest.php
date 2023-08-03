@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\EndFixedPriceItemResponseType;
 
-class EndFixedPriceItemResponseTypeTest extends \PHPUnit_Framework_TestCase
+class EndFixedPriceItemResponseTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

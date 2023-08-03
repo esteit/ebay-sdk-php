@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\AttributeSetType;
 
-class AttributeSetTypeTest extends \PHPUnit_Framework_TestCase
+class AttributeSetTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

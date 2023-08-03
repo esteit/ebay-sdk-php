@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\ReturnManagement\Enums;
 
 use DTS\eBaySDK\ReturnManagement\Enums\ShipmentStatusType;
 
-class ShipmentStatusTypeTest extends \PHPUnit_Framework_TestCase
+class ShipmentStatusTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

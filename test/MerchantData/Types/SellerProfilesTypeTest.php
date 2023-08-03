@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\MerchantData\Types;
 
 use DTS\eBaySDK\MerchantData\Types\SellerProfilesType;
 
-class SellerProfilesTypeTest extends \PHPUnit_Framework_TestCase
+class SellerProfilesTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

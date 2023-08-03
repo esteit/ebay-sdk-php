@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\MerchantData\Types;
 
 use DTS\eBaySDK\MerchantData\Types\AmountType;
 
-class AmountTypeTest extends \PHPUnit_Framework_TestCase
+class AmountTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

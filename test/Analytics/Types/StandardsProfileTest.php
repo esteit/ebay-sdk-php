@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Analytics\Types;
 
 use DTS\eBaySDK\Analytics\Types\StandardsProfile;
 
-class StandardsProfileTest extends \PHPUnit_Framework_TestCase
+class StandardsProfileTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

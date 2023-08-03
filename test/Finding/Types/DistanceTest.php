@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Finding\Types;
 
 use DTS\eBaySDK\Finding\Types\Distance;
 
-class DistanceTest extends \PHPUnit_Framework_TestCase
+class DistanceTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

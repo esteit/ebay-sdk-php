@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\MerchantData\Enums;
 
 use DTS\eBaySDK\MerchantData\Enums\PhotoDisplayCodeType;
 
-class PhotoDisplayCodeTypeTest extends \PHPUnit_Framework_TestCase
+class PhotoDisplayCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

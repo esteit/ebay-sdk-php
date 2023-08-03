@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Browse\Types;
 
 use DTS\eBaySDK\Browse\Types\Refinement;
 
-class RefinementTest extends \PHPUnit_Framework_TestCase
+class RefinementTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

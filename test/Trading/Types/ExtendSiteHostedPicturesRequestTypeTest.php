@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\ExtendSiteHostedPicturesRequestType;
 
-class ExtendSiteHostedPicturesRequestTypeTest extends \PHPUnit_Framework_TestCase
+class ExtendSiteHostedPicturesRequestTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

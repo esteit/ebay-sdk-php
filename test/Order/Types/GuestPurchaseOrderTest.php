@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Order\Types;
 
 use DTS\eBaySDK\Order\Types\GuestPurchaseOrder;
 
-class GuestPurchaseOrderTest extends \PHPUnit_Framework_TestCase
+class GuestPurchaseOrderTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

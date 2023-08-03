@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\AddSellingManagerInventoryFolderRequestType;
 
-class AddSellingManagerInventoryFolderRequestTypeTest extends \PHPUnit_Framework_TestCase
+class AddSellingManagerInventoryFolderRequestTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

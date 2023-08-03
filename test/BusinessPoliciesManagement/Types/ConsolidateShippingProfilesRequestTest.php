@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\BusinessPoliciesManagement\Types;
 
 use DTS\eBaySDK\BusinessPoliciesManagement\Types\ConsolidateShippingProfilesRequest;
 
-class ConsolidateShippingProfilesRequestTest extends \PHPUnit_Framework_TestCase
+class ConsolidateShippingProfilesRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

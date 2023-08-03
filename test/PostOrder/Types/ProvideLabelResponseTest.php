@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\PostOrder\Types;
 
 use DTS\eBaySDK\PostOrder\Types\ProvideLabelResponse;
 
-class ProvideLabelResponseTest extends \PHPUnit_Framework_TestCase
+class ProvideLabelResponseTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

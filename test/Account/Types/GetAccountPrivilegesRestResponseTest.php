@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Account\Types;
 
 use DTS\eBaySDK\Account\Types\GetAccountPrivilegesRestResponse;
 
-class GetAccountPrivilegesRestResponseTest extends \PHPUnit_Framework_TestCase
+class GetAccountPrivilegesRestResponseTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Account\Types;
 
 use DTS\eBaySDK\Account\Types\OptOutOfProgramRestRequest;
 
-class OptOutOfProgramRestRequestTest extends \PHPUnit_Framework_TestCase
+class OptOutOfProgramRestRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

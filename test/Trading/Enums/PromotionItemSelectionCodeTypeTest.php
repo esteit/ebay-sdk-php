@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Enums;
 
 use DTS\eBaySDK\Trading\Enums\PromotionItemSelectionCodeType;
 
-class PromotionItemSelectionCodeTypeTest extends \PHPUnit_Framework_TestCase
+class PromotionItemSelectionCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

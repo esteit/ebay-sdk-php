@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\ItemsCanceledEventType;
 
-class ItemsCanceledEventTypeTest extends \PHPUnit_Framework_TestCase
+class ItemsCanceledEventTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

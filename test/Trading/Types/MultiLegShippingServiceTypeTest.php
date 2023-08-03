@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\MultiLegShippingServiceType;
 
-class MultiLegShippingServiceTypeTest extends \PHPUnit_Framework_TestCase
+class MultiLegShippingServiceTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

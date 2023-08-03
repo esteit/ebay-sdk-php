@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\GeteBayOfficialTimeResponseType;
 
-class GeteBayOfficialTimeResponseTypeTest extends \PHPUnit_Framework_TestCase
+class GeteBayOfficialTimeResponseTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

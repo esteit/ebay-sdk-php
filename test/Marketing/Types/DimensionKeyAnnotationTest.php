@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Marketing\Types;
 
 use DTS\eBaySDK\Marketing\Types\DimensionKeyAnnotation;
 
-class DimensionKeyAnnotationTest extends \PHPUnit_Framework_TestCase
+class DimensionKeyAnnotationTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

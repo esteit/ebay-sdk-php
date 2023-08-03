@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\ListingTipArrayType;
 
-class ListingTipArrayTypeTest extends \PHPUnit_Framework_TestCase
+class ListingTipArrayTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

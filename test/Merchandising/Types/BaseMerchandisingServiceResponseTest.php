@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Merchandising\Types;
 
 use DTS\eBaySDK\Merchandising\Types\BaseMerchandisingServiceResponse;
 
-class BaseMerchandisingServiceResponseTest extends \PHPUnit_Framework_TestCase
+class BaseMerchandisingServiceResponseTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

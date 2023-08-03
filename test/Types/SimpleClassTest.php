@@ -11,7 +11,7 @@ use DTS\eBaySDK\Test\Mocks\StringType;
 use DTS\eBaySDK\Test\Mocks\TokenType;
 use DTS\eBaySDK\Test\Mocks\URIType;
 
-class SimpleClassTest extends \PHPUnit_Framework_TestCase
+class SimpleClassTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

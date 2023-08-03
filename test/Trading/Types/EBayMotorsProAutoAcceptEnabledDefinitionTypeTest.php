@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\EBayMotorsProAutoAcceptEnabledDefinitionType;
 
-class EBayMotorsProAutoAcceptEnabledDefinitionTypeTest extends \PHPUnit_Framework_TestCase
+class EBayMotorsProAutoAcceptEnabledDefinitionTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\PaginationType;
 
-class PaginationTypeTest extends \PHPUnit_Framework_TestCase
+class PaginationTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

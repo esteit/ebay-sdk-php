@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\MerchantData\Types;
 
 use DTS\eBaySDK\MerchantData\Types\ModifyNameArrayType;
 
-class ModifyNameArrayTypeTest extends \PHPUnit_Framework_TestCase
+class ModifyNameArrayTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

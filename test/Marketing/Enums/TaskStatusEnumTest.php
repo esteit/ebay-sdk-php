@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Marketing\Enums;
 
 use DTS\eBaySDK\Marketing\Enums\TaskStatusEnum;
 
-class TaskStatusEnumTest extends \PHPUnit_Framework_TestCase
+class TaskStatusEnumTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

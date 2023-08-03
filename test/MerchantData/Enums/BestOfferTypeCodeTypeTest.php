@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\MerchantData\Enums;
 
 use DTS\eBaySDK\MerchantData\Enums\BestOfferTypeCodeType;
 
-class BestOfferTypeCodeTypeTest extends \PHPUnit_Framework_TestCase
+class BestOfferTypeCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

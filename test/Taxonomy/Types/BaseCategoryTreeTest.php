@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Taxonomy\Types;
 
 use DTS\eBaySDK\Taxonomy\Types\BaseCategoryTree;
 
-class BaseCategoryTreeTest extends \PHPUnit_Framework_TestCase
+class BaseCategoryTreeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

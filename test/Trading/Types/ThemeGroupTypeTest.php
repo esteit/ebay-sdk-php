@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\ThemeGroupType;
 
-class ThemeGroupTypeTest extends \PHPUnit_Framework_TestCase
+class ThemeGroupTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

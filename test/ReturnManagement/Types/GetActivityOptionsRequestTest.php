@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\ReturnManagement\Types;
 
 use DTS\eBaySDK\ReturnManagement\Types\GetActivityOptionsRequest;
 
-class GetActivityOptionsRequestTest extends \PHPUnit_Framework_TestCase
+class GetActivityOptionsRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

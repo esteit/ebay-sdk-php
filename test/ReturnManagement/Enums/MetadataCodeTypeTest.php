@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\ReturnManagement\Enums;
 
 use DTS\eBaySDK\ReturnManagement\Enums\MetadataCodeType;
 
-class MetadataCodeTypeTest extends \PHPUnit_Framework_TestCase
+class MetadataCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

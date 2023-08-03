@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\ReturnManagement\Types;
 
 use DTS\eBaySDK\ReturnManagement\Types\EnumerationDetailType;
 
-class EnumerationDetailTypeTest extends \PHPUnit_Framework_TestCase
+class EnumerationDetailTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

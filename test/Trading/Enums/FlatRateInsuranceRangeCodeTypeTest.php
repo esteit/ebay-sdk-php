@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Enums;
 
 use DTS\eBaySDK\Trading\Enums\FlatRateInsuranceRangeCodeType;
 
-class FlatRateInsuranceRangeCodeTypeTest extends \PHPUnit_Framework_TestCase
+class FlatRateInsuranceRangeCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

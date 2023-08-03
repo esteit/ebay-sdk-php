@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Order\Types;
 
 use DTS\eBaySDK\Order\Types\PaymentInstrument;
 
-class PaymentInstrumentTest extends \PHPUnit_Framework_TestCase
+class PaymentInstrumentTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

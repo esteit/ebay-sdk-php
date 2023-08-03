@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Browse\Types;
 
 use DTS\eBaySDK\Browse\Types\SellerLegalInfo;
 
-class SellerLegalInfoTest extends \PHPUnit_Framework_TestCase
+class SellerLegalInfoTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

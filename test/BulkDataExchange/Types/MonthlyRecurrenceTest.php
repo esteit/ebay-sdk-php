@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\BulkDataExchange\Types;
 
 use DTS\eBaySDK\BulkDataExchange\Types\MonthlyRecurrence;
 
-class MonthlyRecurrenceTest extends \PHPUnit_Framework_TestCase
+class MonthlyRecurrenceTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

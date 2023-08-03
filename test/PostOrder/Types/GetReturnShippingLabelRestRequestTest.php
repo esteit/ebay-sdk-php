@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\PostOrder\Types;
 
 use DTS\eBaySDK\PostOrder\Types\GetReturnShippingLabelRestRequest;
 
-class GetReturnShippingLabelRestRequestTest extends \PHPUnit_Framework_TestCase
+class GetReturnShippingLabelRestRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

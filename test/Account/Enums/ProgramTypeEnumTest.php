@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Account\Enums;
 
 use DTS\eBaySDK\Account\Enums\ProgramTypeEnum;
 
-class ProgramTypeEnumTest extends \PHPUnit_Framework_TestCase
+class ProgramTypeEnumTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

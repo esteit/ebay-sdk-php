@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\PostOrder\Types;
 
 use DTS\eBaySDK\PostOrder\Types\UpdateReturnRulesRestRequest;
 
-class UpdateReturnRulesRestRequestTest extends \PHPUnit_Framework_TestCase
+class UpdateReturnRulesRestRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

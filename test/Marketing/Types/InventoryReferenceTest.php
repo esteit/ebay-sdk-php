@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Marketing\Types;
 
 use DTS\eBaySDK\Marketing\Types\InventoryReference;
 
-class InventoryReferenceTest extends \PHPUnit_Framework_TestCase
+class InventoryReferenceTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

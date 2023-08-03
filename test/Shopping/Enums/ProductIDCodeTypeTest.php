@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Shopping\Enums;
 
 use DTS\eBaySDK\Shopping\Enums\ProductIDCodeType;
 
-class ProductIDCodeTypeTest extends \PHPUnit_Framework_TestCase
+class ProductIDCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

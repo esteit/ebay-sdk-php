@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Inventory\Types;
 
 use DTS\eBaySDK\Inventory\Types\PublishResponse;
 
-class PublishResponseTest extends \PHPUnit_Framework_TestCase
+class PublishResponseTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

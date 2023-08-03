@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\ClassifiedAdCompanyNameEnabledDefinitionType;
 
-class ClassifiedAdCompanyNameEnabledDefinitionTypeTest extends \PHPUnit_Framework_TestCase
+class ClassifiedAdCompanyNameEnabledDefinitionTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

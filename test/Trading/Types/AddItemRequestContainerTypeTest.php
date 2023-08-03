@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\AddItemRequestContainerType;
 
-class AddItemRequestContainerTypeTest extends \PHPUnit_Framework_TestCase
+class AddItemRequestContainerTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

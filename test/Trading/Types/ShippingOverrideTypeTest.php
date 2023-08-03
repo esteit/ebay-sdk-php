@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\ShippingOverrideType;
 
-class ShippingOverrideTypeTest extends \PHPUnit_Framework_TestCase
+class ShippingOverrideTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Shopping\Enums;
 
 use DTS\eBaySDK\Shopping\Enums\ProductSortCodeType;
 
-class ProductSortCodeTypeTest extends \PHPUnit_Framework_TestCase
+class ProductSortCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

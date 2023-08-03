@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Product\Types;
 
 use DTS\eBaySDK\Product\Types\URIValue;
 
-class URIValueTest extends \PHPUnit_Framework_TestCase
+class URIValueTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

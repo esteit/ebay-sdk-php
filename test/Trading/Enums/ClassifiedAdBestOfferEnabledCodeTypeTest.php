@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Enums;
 
 use DTS\eBaySDK\Trading\Enums\ClassifiedAdBestOfferEnabledCodeType;
 
-class ClassifiedAdBestOfferEnabledCodeTypeTest extends \PHPUnit_Framework_TestCase
+class ClassifiedAdBestOfferEnabledCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

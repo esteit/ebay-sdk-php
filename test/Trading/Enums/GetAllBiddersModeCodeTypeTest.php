@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Enums;
 
 use DTS\eBaySDK\Trading\Enums\GetAllBiddersModeCodeType;
 
-class GetAllBiddersModeCodeTypeTest extends \PHPUnit_Framework_TestCase
+class GetAllBiddersModeCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

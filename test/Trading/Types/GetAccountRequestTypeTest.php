@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\GetAccountRequestType;
 
-class GetAccountRequestTypeTest extends \PHPUnit_Framework_TestCase
+class GetAccountRequestTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

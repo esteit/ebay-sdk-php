@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Shopping\Types;
 
 use DTS\eBaySDK\Shopping\Types\TaxTableType;
 
-class TaxTableTypeTest extends \PHPUnit_Framework_TestCase
+class TaxTableTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

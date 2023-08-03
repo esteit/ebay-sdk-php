@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\PostOrder\Types;
 
 use DTS\eBaySDK\PostOrder\Types\InquiryStatusFilter;
 
-class InquiryStatusFilterTest extends \PHPUnit_Framework_TestCase
+class InquiryStatusFilterTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

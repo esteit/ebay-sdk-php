@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\MaxFlatShippingCostDefinitionType;
 
-class MaxFlatShippingCostDefinitionTypeTest extends \PHPUnit_Framework_TestCase
+class MaxFlatShippingCostDefinitionTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

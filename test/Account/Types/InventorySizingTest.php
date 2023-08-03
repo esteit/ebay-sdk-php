@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Account\Types;
 
 use DTS\eBaySDK\Account\Types\InventorySizing;
 
-class InventorySizingTest extends \PHPUnit_Framework_TestCase
+class InventorySizingTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

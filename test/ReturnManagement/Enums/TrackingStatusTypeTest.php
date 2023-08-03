@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\ReturnManagement\Enums;
 
 use DTS\eBaySDK\ReturnManagement\Enums\TrackingStatusType;
 
-class TrackingStatusTypeTest extends \PHPUnit_Framework_TestCase
+class TrackingStatusTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

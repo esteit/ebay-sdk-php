@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\PostOrder\Types;
 
 use DTS\eBaySDK\PostOrder\Types\ReturnHoldInfoType;
 
-class ReturnHoldInfoTypeTest extends \PHPUnit_Framework_TestCase
+class ReturnHoldInfoTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

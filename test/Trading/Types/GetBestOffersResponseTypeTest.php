@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\GetBestOffersResponseType;
 
-class GetBestOffersResponseTypeTest extends \PHPUnit_Framework_TestCase
+class GetBestOffersResponseTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

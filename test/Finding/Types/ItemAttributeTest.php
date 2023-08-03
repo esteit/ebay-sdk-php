@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Finding\Types;
 
 use DTS\eBaySDK\Finding\Types\ItemAttribute;
 
-class ItemAttributeTest extends \PHPUnit_Framework_TestCase
+class ItemAttributeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

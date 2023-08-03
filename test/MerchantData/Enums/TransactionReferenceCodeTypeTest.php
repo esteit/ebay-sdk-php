@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\MerchantData\Enums;
 
 use DTS\eBaySDK\MerchantData\Enums\TransactionReferenceCodeType;
 
-class TransactionReferenceCodeTypeTest extends \PHPUnit_Framework_TestCase
+class TransactionReferenceCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

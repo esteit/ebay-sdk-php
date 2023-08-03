@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\ReturnManagement\Types;
 
 use DTS\eBaySDK\ReturnManagement\Types\GetReturnDetailResponse;
 
-class GetReturnDetailResponseTest extends \PHPUnit_Framework_TestCase
+class GetReturnDetailResponseTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

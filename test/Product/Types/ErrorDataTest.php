@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Product\Types;
 
 use DTS\eBaySDK\Product\Types\ErrorData;
 
-class ErrorDataTest extends \PHPUnit_Framework_TestCase
+class ErrorDataTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

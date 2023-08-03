@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Account\Types;
 
 use DTS\eBaySDK\Account\Types\GetAReturnPolicyByIDRestResponse;
 
-class GetAReturnPolicyByIDRestResponseTest extends \PHPUnit_Framework_TestCase
+class GetAReturnPolicyByIDRestResponseTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\MerchantData\Enums;
 
 use DTS\eBaySDK\MerchantData\Enums\CommentTypeCodeType;
 
-class CommentTypeCodeTypeTest extends \PHPUnit_Framework_TestCase
+class CommentTypeCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\BulkDataExchange\Enums;
 
 use DTS\eBaySDK\BulkDataExchange\Enums\FileType;
 
-class FileTypeTest extends \PHPUnit_Framework_TestCase
+class FileTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

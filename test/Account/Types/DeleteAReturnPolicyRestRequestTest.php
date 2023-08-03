@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Account\Types;
 
 use DTS\eBaySDK\Account\Types\DeleteAReturnPolicyRestRequest;
 
-class DeleteAReturnPolicyRestRequestTest extends \PHPUnit_Framework_TestCase
+class DeleteAReturnPolicyRestRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

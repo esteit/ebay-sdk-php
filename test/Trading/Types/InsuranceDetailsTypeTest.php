@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\InsuranceDetailsType;
 
-class InsuranceDetailsTypeTest extends \PHPUnit_Framework_TestCase
+class InsuranceDetailsTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

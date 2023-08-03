@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Inventory\Types;
 
 use DTS\eBaySDK\Inventory\Types\OperatingHours;
 
-class OperatingHoursTest extends \PHPUnit_Framework_TestCase
+class OperatingHoursTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

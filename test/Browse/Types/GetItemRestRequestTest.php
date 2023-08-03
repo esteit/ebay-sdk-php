@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Browse\Types;
 
 use DTS\eBaySDK\Browse\Types\GetItemRestRequest;
 
-class GetItemRestRequestTest extends \PHPUnit_Framework_TestCase
+class GetItemRestRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

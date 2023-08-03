@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\BusinessPoliciesManagement\Types;
 
 use DTS\eBaySDK\BusinessPoliciesManagement\Types\GetConsolidationJobStatusResponse;
 
-class GetConsolidationJobStatusResponseTest extends \PHPUnit_Framework_TestCase
+class GetConsolidationJobStatusResponseTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

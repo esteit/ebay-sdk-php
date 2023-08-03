@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\PostOrder\Types;
 
 use DTS\eBaySDK\PostOrder\Types\EscalationEligibilityInfo;
 
-class EscalationEligibilityInfoTest extends \PHPUnit_Framework_TestCase
+class EscalationEligibilityInfoTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

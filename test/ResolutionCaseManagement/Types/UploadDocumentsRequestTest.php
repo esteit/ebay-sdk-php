@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\ResolutionCaseManagement\Types;
 
 use DTS\eBaySDK\ResolutionCaseManagement\Types\UploadDocumentsRequest;
 
-class UploadDocumentsRequestTest extends \PHPUnit_Framework_TestCase
+class UploadDocumentsRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

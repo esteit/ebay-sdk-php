@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Marketing\Types;
 
 use DTS\eBaySDK\Marketing\Types\CreateAdsByInventoryReferenceResponse;
 
-class CreateAdsByInventoryReferenceResponseTest extends \PHPUnit_Framework_TestCase
+class CreateAdsByInventoryReferenceResponseTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

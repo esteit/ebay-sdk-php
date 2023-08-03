@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Enums;
 
 use DTS\eBaySDK\Trading\Enums\AdFormatEnabledCodeType;
 
-class AdFormatEnabledCodeTypeTest extends \PHPUnit_Framework_TestCase
+class AdFormatEnabledCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

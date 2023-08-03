@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\NonProfitAddressType;
 
-class NonProfitAddressTypeTest extends \PHPUnit_Framework_TestCase
+class NonProfitAddressTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

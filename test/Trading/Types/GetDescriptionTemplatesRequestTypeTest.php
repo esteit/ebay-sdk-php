@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\GetDescriptionTemplatesRequestType;
 
-class GetDescriptionTemplatesRequestTypeTest extends \PHPUnit_Framework_TestCase
+class GetDescriptionTemplatesRequestTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

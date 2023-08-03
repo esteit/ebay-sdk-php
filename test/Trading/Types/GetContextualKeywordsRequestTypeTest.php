@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\GetContextualKeywordsRequestType;
 
-class GetContextualKeywordsRequestTypeTest extends \PHPUnit_Framework_TestCase
+class GetContextualKeywordsRequestTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

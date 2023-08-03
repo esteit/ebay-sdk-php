@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\MerchantData\Types;
 
 use DTS\eBaySDK\MerchantData\Types\MultiLegShippingServiceType;
 
-class MultiLegShippingServiceTypeTest extends \PHPUnit_Framework_TestCase
+class MultiLegShippingServiceTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

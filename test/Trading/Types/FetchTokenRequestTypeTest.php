@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\FetchTokenRequestType;
 
-class FetchTokenRequestTypeTest extends \PHPUnit_Framework_TestCase
+class FetchTokenRequestTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

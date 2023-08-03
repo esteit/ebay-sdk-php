@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\GetStorePreferencesResponseType;
 
-class GetStorePreferencesResponseTypeTest extends \PHPUnit_Framework_TestCase
+class GetStorePreferencesResponseTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

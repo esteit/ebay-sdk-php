@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\ClassifiedAdPaymentMethodEnabledDefinitionType;
 
-class ClassifiedAdPaymentMethodEnabledDefinitionTypeTest extends \PHPUnit_Framework_TestCase
+class ClassifiedAdPaymentMethodEnabledDefinitionTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\ResolutionCaseManagement\Types;
 
 use DTS\eBaySDK\ResolutionCaseManagement\Types\ProvideTrackingInfoOptionType;
 
-class ProvideTrackingInfoOptionTypeTest extends \PHPUnit_Framework_TestCase
+class ProvideTrackingInfoOptionTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

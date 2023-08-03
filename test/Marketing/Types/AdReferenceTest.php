@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Marketing\Types;
 
 use DTS\eBaySDK\Marketing\Types\AdReference;
 
-class AdReferenceTest extends \PHPUnit_Framework_TestCase
+class AdReferenceTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Enums;
 
 use DTS\eBaySDK\Trading\Enums\ExternalProductCodeType;
 
-class ExternalProductCodeTypeTest extends \PHPUnit_Framework_TestCase
+class ExternalProductCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

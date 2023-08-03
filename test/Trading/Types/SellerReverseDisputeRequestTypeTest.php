@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\SellerReverseDisputeRequestType;
 
-class SellerReverseDisputeRequestTypeTest extends \PHPUnit_Framework_TestCase
+class SellerReverseDisputeRequestTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

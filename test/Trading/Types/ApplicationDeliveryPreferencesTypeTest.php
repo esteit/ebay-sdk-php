@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\ApplicationDeliveryPreferencesType;
 
-class ApplicationDeliveryPreferencesTypeTest extends \PHPUnit_Framework_TestCase
+class ApplicationDeliveryPreferencesTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

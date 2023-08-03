@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\ProductMetadata\Types;
 
 use DTS\eBaySDK\ProductMetadata\Types\NumericValue;
 
-class NumericValueTest extends \PHPUnit_Framework_TestCase
+class NumericValueTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

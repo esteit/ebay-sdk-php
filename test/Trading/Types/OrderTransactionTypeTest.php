@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\OrderTransactionType;
 
-class OrderTransactionTypeTest extends \PHPUnit_Framework_TestCase
+class OrderTransactionTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

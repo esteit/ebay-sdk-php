@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Browse\Types;
 
 use DTS\eBaySDK\Browse\Types\EstimatedAvailability;
 
-class EstimatedAvailabilityTest extends \PHPUnit_Framework_TestCase
+class EstimatedAvailabilityTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

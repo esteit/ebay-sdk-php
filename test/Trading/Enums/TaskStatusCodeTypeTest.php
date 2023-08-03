@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Enums;
 
 use DTS\eBaySDK\Trading\Enums\TaskStatusCodeType;
 
-class TaskStatusCodeTypeTest extends \PHPUnit_Framework_TestCase
+class TaskStatusCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

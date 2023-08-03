@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Browse\Types;
 
 use DTS\eBaySDK\Browse\Types\MarketingPrice;
 
-class MarketingPriceTest extends \PHPUnit_Framework_TestCase
+class MarketingPriceTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Inventory\Types;
 
 use DTS\eBaySDK\Inventory\Types\GeoCoordinates;
 
-class GeoCoordinatesTest extends \PHPUnit_Framework_TestCase
+class GeoCoordinatesTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

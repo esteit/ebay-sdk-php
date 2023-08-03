@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Enums;
 
 use DTS\eBaySDK\Trading\Enums\CalculatedShippingChargeOptionCodeType;
 
-class CalculatedShippingChargeOptionCodeTypeTest extends \PHPUnit_Framework_TestCase
+class CalculatedShippingChargeOptionCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

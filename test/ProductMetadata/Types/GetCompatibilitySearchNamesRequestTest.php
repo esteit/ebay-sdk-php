@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\ProductMetadata\Types;
 
 use DTS\eBaySDK\ProductMetadata\Types\GetCompatibilitySearchNamesRequest;
 
-class GetCompatibilitySearchNamesRequestTest extends \PHPUnit_Framework_TestCase
+class GetCompatibilitySearchNamesRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

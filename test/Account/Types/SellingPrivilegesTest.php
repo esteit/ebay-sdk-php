@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Account\Types;
 
 use DTS\eBaySDK\Account\Types\SellingPrivileges;
 
-class SellingPrivilegesTest extends \PHPUnit_Framework_TestCase
+class SellingPrivilegesTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

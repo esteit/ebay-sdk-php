@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\ResolutionCaseManagement\Types;
 
 use DTS\eBaySDK\ResolutionCaseManagement\Types\AppealRef;
 
-class AppealRefTest extends \PHPUnit_Framework_TestCase
+class AppealRefTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

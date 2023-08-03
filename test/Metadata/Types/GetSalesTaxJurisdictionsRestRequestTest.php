@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Metadata\Types;
 
 use DTS\eBaySDK\Metadata\Types\GetSalesTaxJurisdictionsRestRequest;
 
-class GetSalesTaxJurisdictionsRestRequestTest extends \PHPUnit_Framework_TestCase
+class GetSalesTaxJurisdictionsRestRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

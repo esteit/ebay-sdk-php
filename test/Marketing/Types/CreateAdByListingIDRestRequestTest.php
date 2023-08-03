@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Marketing\Types;
 
 use DTS\eBaySDK\Marketing\Types\CreateAdByListingIDRestRequest;
 
-class CreateAdByListingIDRestRequestTest extends \PHPUnit_Framework_TestCase
+class CreateAdByListingIDRestRequestTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

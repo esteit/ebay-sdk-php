@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\AddItemsResponseType;
 
-class AddItemsResponseTypeTest extends \PHPUnit_Framework_TestCase
+class AddItemsResponseTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

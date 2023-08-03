@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\GetCategoryFeaturesResponseType;
 
-class GetCategoryFeaturesResponseTypeTest extends \PHPUnit_Framework_TestCase
+class GetCategoryFeaturesResponseTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

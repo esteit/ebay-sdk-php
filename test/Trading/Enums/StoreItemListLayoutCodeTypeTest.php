@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Enums;
 
 use DTS\eBaySDK\Trading\Enums\StoreItemListLayoutCodeType;
 
-class StoreItemListLayoutCodeTypeTest extends \PHPUnit_Framework_TestCase
+class StoreItemListLayoutCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

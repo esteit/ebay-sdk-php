@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\ResolutionCaseManagement\Enums;
 
 use DTS\eBaySDK\ResolutionCaseManagement\Enums\CaseUserRoleType;
 
-class CaseUserRoleTypeTest extends \PHPUnit_Framework_TestCase
+class CaseUserRoleTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

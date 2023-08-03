@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Enums;
 
 use DTS\eBaySDK\Trading\Enums\StoreSubscriptionLevelCodeType;
 
-class StoreSubscriptionLevelCodeTypeTest extends \PHPUnit_Framework_TestCase
+class StoreSubscriptionLevelCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

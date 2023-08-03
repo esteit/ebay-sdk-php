@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Enums;
 
 use DTS\eBaySDK\Trading\Enums\SMSSubscriptionErrorCodeCodeType;
 
-class SMSSubscriptionErrorCodeCodeTypeTest extends \PHPUnit_Framework_TestCase
+class SMSSubscriptionErrorCodeCodeTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 

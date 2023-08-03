@@ -12,7 +12,7 @@ namespace DTS\eBaySDK\Test\Trading\Types;
 
 use DTS\eBaySDK\Trading\Types\QuantityType;
 
-class QuantityTypeTest extends \PHPUnit_Framework_TestCase
+class QuantityTypeTest extends \PHPUnit\Framework\TestCase
 {
     private $obj;
 
