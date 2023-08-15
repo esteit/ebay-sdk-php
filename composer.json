@@ -1,17 +1,19 @@
 {
-    "name": "esteit/ebay-sdk-php",
+    "name": "dts/ebay-sdk-php",
     "description": "An eBay SDK for PHP. Use the eBay API in your PHP projects.",
     "keywords": ["ebay", "api", "sdk"],
+    "homepage": "http://devbay.net/",
     "type": "library",
     "license": "(Apache-2.0 and MIT)",
     "authors": [
         {
-            "name": "Aleksandr Golikov",
-            "email": "sanor.2000@gmail.com"
+            "name": "David T. Sadler",
+            "email": "davidtsadler@googlemail.com",
+            "homepage": "http://davidtsadler.com"
         }
     ],
     "support": {
-        "issues": "https://github.com/esteit/ebay-sdk-php/issues"
+        "issues": "https://github.com/davidtsadler/ebay-sdk-php/issues"
     },
     "require": {
         "php": ">8.2.3",
